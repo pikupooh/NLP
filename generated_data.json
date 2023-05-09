@@ -1,0 +1,5404 @@
+{
+    "data": [
+        [
+            "call alex",
+            "call"
+        ],
+        [
+            "please call mark",
+            "call"
+        ],
+        [
+            "i want to call mark",
+            "call"
+        ],
+        [
+            "let me call mark",
+            "call"
+        ],
+        [
+            "can we call mark",
+            "call"
+        ],
+        [
+            "call back my mom please",
+            "call"
+        ],
+        [
+            "start a call to cynthia",
+            "call"
+        ],
+        [
+            "i want to call up jan",
+            "call"
+        ],
+        [
+            "can you get a call started to martha",
+            "call"
+        ],
+        [
+            "please call felicity",
+            "call"
+        ],
+        [
+            "please initiate a phone call to my boss",
+            "call"
+        ],
+        [
+            "initiate a call to robert",
+            "call"
+        ],
+        [
+            "dial the last number that called me",
+            "call"
+        ],
+        [
+            "call contact aj",
+            "call"
+        ],
+        [
+            "call aj now",
+            "call"
+        ],
+        [
+            "call aj",
+            "call"
+        ],
+        [
+            "call aj please",
+            "call"
+        ],
+        [
+            "call my friend aj",
+            "call"
+        ],
+        [
+            "can you call michelle on the home phone",
+            "call"
+        ],
+        [
+            "siri, call jacob",
+            "call"
+        ],
+        [
+            "place a phone call to yiming",
+            "call"
+        ],
+        [
+            "phone lobby",
+            "call"
+        ],
+        [
+            "can you call dominos pizza",
+            "call"
+        ],
+        [
+            "can you redial the last number dialed",
+            "call"
+        ],
+        [
+            "call 911",
+            "call"
+        ],
+        [
+            "can you call a taxi",
+            "call"
+        ],
+        [
+            "can you call mom",
+            "call"
+        ],
+        [
+            "call work",
+            "call"
+        ],
+        [
+            "call justin",
+            "call"
+        ],
+        [
+            "call home",
+            "call"
+        ],
+        [
+            "call erryn",
+            "call"
+        ],
+        [
+            "i have to call the commander",
+            "call"
+        ],
+        [
+            "i will be calling hr",
+            "call"
+        ],
+        [
+            "it is important that i call katie",
+            "call"
+        ],
+        [
+            "x is who i need to call",
+            "call"
+        ],
+        [
+            "i am going to call the landlord",
+            "call"
+        ],
+        [
+            "call macy",
+            "call"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "call"
+        ],
+        [
+            "please dial david now",
+            "call"
+        ],
+        [
+            "i need you to call michael at home",
+            "call"
+        ],
+        [
+            "can you call mary",
+            "call"
+        ],
+        [
+            "please phone lizzy",
+            "call"
+        ],
+        [
+            "please dial x's phone number",
+            "call"
+        ],
+        [
+            "dial x's phone please",
+            "call"
+        ],
+        [
+            "please call toby",
+            "call"
+        ],
+        [
+            "call dave",
+            "call"
+        ],
+        [
+            "call my best friend",
+            "call"
+        ],
+        [
+            "can you make a phone call to mark",
+            "call"
+        ],
+        [
+            "can you call my mom",
+            "call"
+        ],
+        [
+            "call mark",
+            "call"
+        ],
+        [
+            "call friend",
+            "call"
+        ],
+        [
+            "can i call a restaurant",
+            "call"
+        ],
+        [
+            "can you make a phone call to kevin",
+            "call"
+        ],
+        [
+            "call bob for me",
+            "call"
+        ],
+        [
+            "call my mother",
+            "call"
+        ],
+        [
+            "call jim",
+            "call"
+        ],
+        [
+            "can you make a phone call to roger",
+            "call"
+        ],
+        [
+            "can you make a phone call to dave",
+            "call"
+        ],
+        [
+            "call mymother",
+            "call"
+        ],
+        [
+            "can you make a phone call to randy",
+            "call"
+        ],
+        [
+            "bella needs to be called",
+            "call"
+        ],
+        [
+            "give liz a call",
+            "call"
+        ],
+        [
+            "would you give jenny a call",
+            "call"
+        ],
+        [
+            "i want you to call bella",
+            "call"
+        ],
+        [
+            "phone call secretary",
+            "call"
+        ],
+        [
+            "get a hold of sue",
+            "call"
+        ],
+        [
+            "i'm looking to call a group",
+            "call"
+        ],
+        [
+            "call tom",
+            "call"
+        ],
+        [
+            "dial x's number",
+            "call"
+        ],
+        [
+            "dial christie's cell",
+            "call"
+        ],
+        [
+            "call christie's work number",
+            "call"
+        ],
+        [
+            "phone christie",
+            "call"
+        ],
+        [
+            "call christie",
+            "call"
+        ],
+        [
+            "please dial christie's number",
+            "call"
+        ],
+        [
+            "can you call someone",
+            "call"
+        ],
+        [
+            "call someone for me",
+            "call"
+        ],
+        [
+            "dial someone's phone number",
+            "call"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "call"
+        ],
+        [
+            "call someone",
+            "call"
+        ],
+        [
+            "it's time for me to call drew",
+            "call"
+        ],
+        [
+            "it's necessary to call michael",
+            "call"
+        ],
+        [
+            "i must call jordan",
+            "call"
+        ],
+        [
+            "x is waiting for me to call",
+            "call"
+        ],
+        [
+            "put me on a call to sally",
+            "call"
+        ],
+        [
+            "place a call to bill now",
+            "call"
+        ],
+        [
+            "i want to place a call to mike",
+            "call"
+        ],
+        [
+            "i have to call jane",
+            "call"
+        ],
+        [
+            "can you call russell",
+            "call"
+        ],
+        [
+            "place call to robby",
+            "call"
+        ],
+        [
+            "dial sarah",
+            "call"
+        ],
+        [
+            "call robby",
+            "call"
+        ],
+        [
+            "phone sarah",
+            "call"
+        ],
+        [
+            "call sarah",
+            "call"
+        ],
+        [
+            "call robby for me",
+            "call"
+        ],
+        [
+            "i want to call robby",
+            "call"
+        ],
+        [
+            "can you call robby",
+            "call"
+        ],
+        [
+            "phonecall sarah",
+            "call"
+        ],
+        [
+            "i want to talk to sarah",
+            "call"
+        ],
+        [
+            "dial steven",
+            "call"
+        ],
+        [
+            "phone steven",
+            "call"
+        ],
+        [
+            "ring steven",
+            "call"
+        ],
+        [
+            "call steven",
+            "call"
+        ],
+        [
+            "i want to make a call to uncle",
+            "call"
+        ],
+        [
+            "use my phone to dial work",
+            "call"
+        ],
+        [
+            "start a phone call with kathy",
+            "call"
+        ],
+        [
+            "initiate a phone call with receptionist",
+            "call"
+        ],
+        [
+            "can a phone call be made to maria",
+            "call"
+        ],
+        [
+            "i need you to call the broker",
+            "call"
+        ],
+        [
+            "please do me a favor and call brother mario",
+            "call"
+        ],
+        [
+            "can you please call nata",
+            "call"
+        ],
+        [
+            "call sandra right now",
+            "call"
+        ],
+        [
+            "immediately call tom",
+            "call"
+        ],
+        [
+            "i must call dr smith",
+            "call"
+        ],
+        [
+            "connect me to bob",
+            "call"
+        ],
+        [
+            "place a call to father callahan",
+            "call"
+        ],
+        [
+            "i should call ruthie",
+            "call"
+        ],
+        [
+            "please call christy",
+            "call"
+        ],
+        [
+            "i must call roderick",
+            "call"
+        ],
+        [
+            "please make a phone call to christopher",
+            "call"
+        ],
+        [
+            "i need to call mark",
+            "call"
+        ],
+        [
+            "i need to call my dad",
+            "call"
+        ],
+        [
+            "i need to call my friend",
+            "call"
+        ],
+        [
+            "i need to call my coworker",
+            "call"
+        ],
+        [
+            "i need to call my mom",
+            "call"
+        ],
+        [
+            "i need to call my boss",
+            "call"
+        ],
+        [
+            "i need you to call the phone company for me",
+            "call"
+        ],
+        [
+            "make a call for me to the vet",
+            "call"
+        ],
+        [
+            "dial up dominos pizza",
+            "call"
+        ],
+        [
+            "call my doctor",
+            "call"
+        ],
+        [
+            "get mom on the phone",
+            "call"
+        ],
+        [
+            "please make a call to stefan larson",
+            "call"
+        ],
+        [
+            "use phone to call alexa",
+            "call"
+        ],
+        [
+            "computer, call alexa",
+            "call"
+        ],
+        [
+            "computer, place a call to alexa",
+            "call"
+        ],
+        [
+            "can you call alexa",
+            "call"
+        ],
+        [
+            "call alexa at home",
+            "call"
+        ],
+        [
+            "i would like to make a call to sal",
+            "call"
+        ],
+        [
+            "i would like to make a phone call",
+            "call"
+        ],
+        [
+            "can i make a phone call",
+            "call"
+        ],
+        [
+            "i need to make a call",
+            "call"
+        ],
+        [
+            "i need you to phone sal",
+            "call"
+        ],
+        [
+            "i need to call sal",
+            "call"
+        ],
+        [
+            "i have to make a phone call",
+            "call"
+        ],
+        [
+            "i have to use the phone to make a call",
+            "call"
+        ],
+        [
+            "could you call sal",
+            "call"
+        ],
+        [
+            "call sal",
+            "call"
+        ],
+        [
+            "x needs to be called by me",
+            "call"
+        ],
+        [
+            "call to mom",
+            "call"
+        ],
+        [
+            "call mom",
+            "call"
+        ],
+        [
+            "dial her up",
+            "call"
+        ],
+        [
+            "ring alex",
+            "call"
+        ],
+        [
+            "please ring mark",
+            "call"
+        ],
+        [
+            "i want to ring mark",
+            "call"
+        ],
+        [
+            "let me ring mark",
+            "call"
+        ],
+        [
+            "can we ring mark",
+            "call"
+        ],
+        [
+            "ring back my mom please",
+            "call"
+        ],
+        [
+            "start a ring to cynthia",
+            "call"
+        ],
+        [
+            "i want to ring up jan",
+            "call"
+        ],
+        [
+            "can you get a ring started to martha",
+            "call"
+        ],
+        [
+            "please ring felicity",
+            "call"
+        ],
+        [
+            "please initiate a phone ring to my boss",
+            "call"
+        ],
+        [
+            "initiate a ring to robert",
+            "call"
+        ],
+        [
+            "dial the last number that ringed me",
+            "call"
+        ],
+        [
+            "ring contact aj",
+            "call"
+        ],
+        [
+            "ring aj now",
+            "call"
+        ],
+        [
+            "ring aj",
+            "call"
+        ],
+        [
+            "ring aj please",
+            "call"
+        ],
+        [
+            "ring my friend aj",
+            "call"
+        ],
+        [
+            "can you ring michelle on the home phone",
+            "call"
+        ],
+        [
+            "siri, ring jacob",
+            "call"
+        ],
+        [
+            "place a phone ring to yiming",
+            "call"
+        ],
+        [
+            "phone lobby",
+            "call"
+        ],
+        [
+            "can you ring dominos pizza",
+            "call"
+        ],
+        [
+            "can you redial the last number dialed",
+            "call"
+        ],
+        [
+            "ring 911",
+            "call"
+        ],
+        [
+            "can you ring a taxi",
+            "call"
+        ],
+        [
+            "can you ring mom",
+            "call"
+        ],
+        [
+            "ring work",
+            "call"
+        ],
+        [
+            "ring justin",
+            "call"
+        ],
+        [
+            "ring home",
+            "call"
+        ],
+        [
+            "ring erryn",
+            "call"
+        ],
+        [
+            "i have to ring the commander",
+            "call"
+        ],
+        [
+            "i will be ringing hr",
+            "call"
+        ],
+        [
+            "it is important that i ring katie",
+            "call"
+        ],
+        [
+            "x is who i need to ring",
+            "call"
+        ],
+        [
+            "i am going to ring the landlord",
+            "call"
+        ],
+        [
+            "ring macy",
+            "call"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "call"
+        ],
+        [
+            "please dial david now",
+            "call"
+        ],
+        [
+            "i need you to ring michael at home",
+            "call"
+        ],
+        [
+            "can you ring mary",
+            "call"
+        ],
+        [
+            "please phone lizzy",
+            "call"
+        ],
+        [
+            "please dial x's phone number",
+            "call"
+        ],
+        [
+            "dial x's phone please",
+            "call"
+        ],
+        [
+            "please ring toby",
+            "call"
+        ],
+        [
+            "ring dave",
+            "call"
+        ],
+        [
+            "ring my best friend",
+            "call"
+        ],
+        [
+            "can you make a phone ring to mark",
+            "call"
+        ],
+        [
+            "can you ring my mom",
+            "call"
+        ],
+        [
+            "ring mark",
+            "call"
+        ],
+        [
+            "ring friend",
+            "call"
+        ],
+        [
+            "can i ring a restaurant",
+            "call"
+        ],
+        [
+            "can you make a phone ring to kevin",
+            "call"
+        ],
+        [
+            "ring bob for me",
+            "call"
+        ],
+        [
+            "ring my mother",
+            "call"
+        ],
+        [
+            "ring jim",
+            "call"
+        ],
+        [
+            "can you make a phone ring to roger",
+            "call"
+        ],
+        [
+            "can you make a phone ring to dave",
+            "call"
+        ],
+        [
+            "ring mymother",
+            "call"
+        ],
+        [
+            "can you make a phone ring to randy",
+            "call"
+        ],
+        [
+            "bella needs to be ringed",
+            "call"
+        ],
+        [
+            "give liz a ring",
+            "call"
+        ],
+        [
+            "would you give jenny a ring",
+            "call"
+        ],
+        [
+            "i want you to ring bella",
+            "call"
+        ],
+        [
+            "phone ring secretary",
+            "call"
+        ],
+        [
+            "get a hold of sue",
+            "call"
+        ],
+        [
+            "i'm looking to ring a group",
+            "call"
+        ],
+        [
+            "ring tom",
+            "call"
+        ],
+        [
+            "dial x's number",
+            "call"
+        ],
+        [
+            "dial christie's cell",
+            "call"
+        ],
+        [
+            "ring christie's work number",
+            "call"
+        ],
+        [
+            "phone christie",
+            "call"
+        ],
+        [
+            "ring christie",
+            "call"
+        ],
+        [
+            "please dial christie's number",
+            "call"
+        ],
+        [
+            "can you ring someone",
+            "call"
+        ],
+        [
+            "ring someone for me",
+            "call"
+        ],
+        [
+            "dial someone's phone number",
+            "call"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "call"
+        ],
+        [
+            "ring someone",
+            "call"
+        ],
+        [
+            "it's time for me to ring drew",
+            "call"
+        ],
+        [
+            "it's necessary to ring michael",
+            "call"
+        ],
+        [
+            "i must ring jordan",
+            "call"
+        ],
+        [
+            "x is waiting for me to ring",
+            "call"
+        ],
+        [
+            "put me on a ring to sally",
+            "call"
+        ],
+        [
+            "place a ring to bill now",
+            "call"
+        ],
+        [
+            "i want to place a ring to mike",
+            "call"
+        ],
+        [
+            "i have to ring jane",
+            "call"
+        ],
+        [
+            "can you ring russell",
+            "call"
+        ],
+        [
+            "place ring to robby",
+            "call"
+        ],
+        [
+            "dial sarah",
+            "call"
+        ],
+        [
+            "ring robby",
+            "call"
+        ],
+        [
+            "phone sarah",
+            "call"
+        ],
+        [
+            "ring sarah",
+            "call"
+        ],
+        [
+            "ring robby for me",
+            "call"
+        ],
+        [
+            "i want to ring robby",
+            "call"
+        ],
+        [
+            "can you ring robby",
+            "call"
+        ],
+        [
+            "phonering sarah",
+            "call"
+        ],
+        [
+            "i want to talk to sarah",
+            "call"
+        ],
+        [
+            "dial steven",
+            "call"
+        ],
+        [
+            "phone steven",
+            "call"
+        ],
+        [
+            "ring steven",
+            "call"
+        ],
+        [
+            "ring steven",
+            "call"
+        ],
+        [
+            "i want to make a ring to uncle",
+            "call"
+        ],
+        [
+            "use my phone to dial work",
+            "call"
+        ],
+        [
+            "start a phone ring with kathy",
+            "call"
+        ],
+        [
+            "initiate a phone ring with receptionist",
+            "call"
+        ],
+        [
+            "can a phone ring be made to maria",
+            "call"
+        ],
+        [
+            "i need you to ring the broker",
+            "call"
+        ],
+        [
+            "please do me a favor and ring brother mario",
+            "call"
+        ],
+        [
+            "can you please ring nata",
+            "call"
+        ],
+        [
+            "ring sandra right now",
+            "call"
+        ],
+        [
+            "immediately ring tom",
+            "call"
+        ],
+        [
+            "i must ring dr smith",
+            "call"
+        ],
+        [
+            "connect me to bob",
+            "call"
+        ],
+        [
+            "place a ring to father ringahan",
+            "call"
+        ],
+        [
+            "i should ring ruthie",
+            "call"
+        ],
+        [
+            "please ring christy",
+            "call"
+        ],
+        [
+            "i must ring roderick",
+            "call"
+        ],
+        [
+            "please make a phone ring to christopher",
+            "call"
+        ],
+        [
+            "i need to ring mark",
+            "call"
+        ],
+        [
+            "i need to ring my dad",
+            "call"
+        ],
+        [
+            "i need to ring my friend",
+            "call"
+        ],
+        [
+            "i need to ring my coworker",
+            "call"
+        ],
+        [
+            "i need to ring my mom",
+            "call"
+        ],
+        [
+            "i need to ring my boss",
+            "call"
+        ],
+        [
+            "i need you to ring the phone company for me",
+            "call"
+        ],
+        [
+            "make a ring for me to the vet",
+            "call"
+        ],
+        [
+            "dial up dominos pizza",
+            "call"
+        ],
+        [
+            "ring my doctor",
+            "call"
+        ],
+        [
+            "get mom on the phone",
+            "call"
+        ],
+        [
+            "please make a ring to stefan larson",
+            "call"
+        ],
+        [
+            "use phone to ring alexa",
+            "call"
+        ],
+        [
+            "computer, ring alexa",
+            "call"
+        ],
+        [
+            "computer, place a ring to alexa",
+            "call"
+        ],
+        [
+            "can you ring alexa",
+            "call"
+        ],
+        [
+            "ring alexa at home",
+            "call"
+        ],
+        [
+            "i would like to make a ring to sal",
+            "call"
+        ],
+        [
+            "i would like to make a phone ring",
+            "call"
+        ],
+        [
+            "can i make a phone ring",
+            "call"
+        ],
+        [
+            "i need to make a ring",
+            "call"
+        ],
+        [
+            "i need you to phone sal",
+            "call"
+        ],
+        [
+            "i need to ring sal",
+            "call"
+        ],
+        [
+            "i have to make a phone ring",
+            "call"
+        ],
+        [
+            "i have to use the phone to make a ring",
+            "call"
+        ],
+        [
+            "could you ring sal",
+            "call"
+        ],
+        [
+            "ring sal",
+            "call"
+        ],
+        [
+            "x needs to be ringed by me",
+            "call"
+        ],
+        [
+            "ring to mom",
+            "call"
+        ],
+        [
+            "ring mom",
+            "call"
+        ],
+        [
+            "dial her up",
+            "call"
+        ],
+        [
+            "teams call alex",
+            "call"
+        ],
+        [
+            "please teams call mark",
+            "call"
+        ],
+        [
+            "i want to teams call mark",
+            "call"
+        ],
+        [
+            "let me teams call mark",
+            "call"
+        ],
+        [
+            "can we teams call mark",
+            "call"
+        ],
+        [
+            "teams call back my mom please",
+            "call"
+        ],
+        [
+            "start a teams call to cynthia",
+            "call"
+        ],
+        [
+            "i want to teams call up jan",
+            "call"
+        ],
+        [
+            "can you get a teams call started to martha",
+            "call"
+        ],
+        [
+            "please teams call felicity",
+            "call"
+        ],
+        [
+            "please initiate a phone teams call to my boss",
+            "call"
+        ],
+        [
+            "initiate a teams call to robert",
+            "call"
+        ],
+        [
+            "dial the last number that teams called me",
+            "call"
+        ],
+        [
+            "teams call contact aj",
+            "call"
+        ],
+        [
+            "teams call aj now",
+            "call"
+        ],
+        [
+            "teams call aj",
+            "call"
+        ],
+        [
+            "teams call aj please",
+            "call"
+        ],
+        [
+            "teams call my friend aj",
+            "call"
+        ],
+        [
+            "can you teams call michelle on the home phone",
+            "call"
+        ],
+        [
+            "siri, teams call jacob",
+            "call"
+        ],
+        [
+            "place a phone teams call to yiming",
+            "call"
+        ],
+        [
+            "phone lobby",
+            "call"
+        ],
+        [
+            "can you teams call dominos pizza",
+            "call"
+        ],
+        [
+            "can you redial the last number dialed",
+            "call"
+        ],
+        [
+            "teams call 911",
+            "call"
+        ],
+        [
+            "can you teams call a taxi",
+            "call"
+        ],
+        [
+            "can you teams call mom",
+            "call"
+        ],
+        [
+            "teams call work",
+            "call"
+        ],
+        [
+            "teams call justin",
+            "call"
+        ],
+        [
+            "teams call home",
+            "call"
+        ],
+        [
+            "teams call erryn",
+            "call"
+        ],
+        [
+            "i have to teams call the commander",
+            "call"
+        ],
+        [
+            "i will be teams calling hr",
+            "call"
+        ],
+        [
+            "it is important that i teams call katie",
+            "call"
+        ],
+        [
+            "x is who i need to teams call",
+            "call"
+        ],
+        [
+            "i am going to teams call the landlord",
+            "call"
+        ],
+        [
+            "teams call macy",
+            "call"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "call"
+        ],
+        [
+            "please dial david now",
+            "call"
+        ],
+        [
+            "i need you to teams call michael at home",
+            "call"
+        ],
+        [
+            "can you teams call mary",
+            "call"
+        ],
+        [
+            "please phone lizzy",
+            "call"
+        ],
+        [
+            "please dial x's phone number",
+            "call"
+        ],
+        [
+            "dial x's phone please",
+            "call"
+        ],
+        [
+            "please teams call toby",
+            "call"
+        ],
+        [
+            "teams call dave",
+            "call"
+        ],
+        [
+            "teams call my best friend",
+            "call"
+        ],
+        [
+            "can you make a phone teams call to mark",
+            "call"
+        ],
+        [
+            "can you teams call my mom",
+            "call"
+        ],
+        [
+            "teams call mark",
+            "call"
+        ],
+        [
+            "teams call friend",
+            "call"
+        ],
+        [
+            "can i teams call a restaurant",
+            "call"
+        ],
+        [
+            "can you make a phone teams call to kevin",
+            "call"
+        ],
+        [
+            "teams call bob for me",
+            "call"
+        ],
+        [
+            "teams call my mother",
+            "call"
+        ],
+        [
+            "teams call jim",
+            "call"
+        ],
+        [
+            "can you make a phone teams call to roger",
+            "call"
+        ],
+        [
+            "can you make a phone teams call to dave",
+            "call"
+        ],
+        [
+            "teams call mymother",
+            "call"
+        ],
+        [
+            "can you make a phone teams call to randy",
+            "call"
+        ],
+        [
+            "bella needs to be teams called",
+            "call"
+        ],
+        [
+            "give liz a teams call",
+            "call"
+        ],
+        [
+            "would you give jenny a teams call",
+            "call"
+        ],
+        [
+            "i want you to teams call bella",
+            "call"
+        ],
+        [
+            "phone teams call secretary",
+            "call"
+        ],
+        [
+            "get a hold of sue",
+            "call"
+        ],
+        [
+            "i'm looking to teams call a group",
+            "call"
+        ],
+        [
+            "teams call tom",
+            "call"
+        ],
+        [
+            "dial x's number",
+            "call"
+        ],
+        [
+            "dial christie's cell",
+            "call"
+        ],
+        [
+            "teams call christie's work number",
+            "call"
+        ],
+        [
+            "phone christie",
+            "call"
+        ],
+        [
+            "teams call christie",
+            "call"
+        ],
+        [
+            "please dial christie's number",
+            "call"
+        ],
+        [
+            "can you teams call someone",
+            "call"
+        ],
+        [
+            "teams call someone for me",
+            "call"
+        ],
+        [
+            "dial someone's phone number",
+            "call"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "call"
+        ],
+        [
+            "teams call someone",
+            "call"
+        ],
+        [
+            "it's time for me to teams call drew",
+            "call"
+        ],
+        [
+            "it's necessary to teams call michael",
+            "call"
+        ],
+        [
+            "i must teams call jordan",
+            "call"
+        ],
+        [
+            "x is waiting for me to teams call",
+            "call"
+        ],
+        [
+            "put me on a teams call to sally",
+            "call"
+        ],
+        [
+            "place a teams call to bill now",
+            "call"
+        ],
+        [
+            "i want to place a teams call to mike",
+            "call"
+        ],
+        [
+            "i have to teams call jane",
+            "call"
+        ],
+        [
+            "can you teams call russell",
+            "call"
+        ],
+        [
+            "place teams call to robby",
+            "call"
+        ],
+        [
+            "dial sarah",
+            "call"
+        ],
+        [
+            "teams call robby",
+            "call"
+        ],
+        [
+            "phone sarah",
+            "call"
+        ],
+        [
+            "teams call sarah",
+            "call"
+        ],
+        [
+            "teams call robby for me",
+            "call"
+        ],
+        [
+            "i want to teams call robby",
+            "call"
+        ],
+        [
+            "can you teams call robby",
+            "call"
+        ],
+        [
+            "phoneteams call sarah",
+            "call"
+        ],
+        [
+            "i want to talk to sarah",
+            "call"
+        ],
+        [
+            "dial steven",
+            "call"
+        ],
+        [
+            "phone steven",
+            "call"
+        ],
+        [
+            "ring steven",
+            "call"
+        ],
+        [
+            "teams call steven",
+            "call"
+        ],
+        [
+            "i want to make a teams call to uncle",
+            "call"
+        ],
+        [
+            "use my phone to dial work",
+            "call"
+        ],
+        [
+            "start a phone teams call with kathy",
+            "call"
+        ],
+        [
+            "initiate a phone teams call with receptionist",
+            "call"
+        ],
+        [
+            "can a phone teams call be made to maria",
+            "call"
+        ],
+        [
+            "i need you to teams call the broker",
+            "call"
+        ],
+        [
+            "please do me a favor and teams call brother mario",
+            "call"
+        ],
+        [
+            "can you please teams call nata",
+            "call"
+        ],
+        [
+            "teams call sandra right now",
+            "call"
+        ],
+        [
+            "immediately teams call tom",
+            "call"
+        ],
+        [
+            "i must teams call dr smith",
+            "call"
+        ],
+        [
+            "connect me to bob",
+            "call"
+        ],
+        [
+            "place a teams call to father teams callahan",
+            "call"
+        ],
+        [
+            "i should teams call ruthie",
+            "call"
+        ],
+        [
+            "please teams call christy",
+            "call"
+        ],
+        [
+            "i must teams call roderick",
+            "call"
+        ],
+        [
+            "please make a phone teams call to christopher",
+            "call"
+        ],
+        [
+            "i need to teams call mark",
+            "call"
+        ],
+        [
+            "i need to teams call my dad",
+            "call"
+        ],
+        [
+            "i need to teams call my friend",
+            "call"
+        ],
+        [
+            "i need to teams call my coworker",
+            "call"
+        ],
+        [
+            "i need to teams call my mom",
+            "call"
+        ],
+        [
+            "i need to teams call my boss",
+            "call"
+        ],
+        [
+            "i need you to teams call the phone company for me",
+            "call"
+        ],
+        [
+            "make a teams call for me to the vet",
+            "call"
+        ],
+        [
+            "dial up dominos pizza",
+            "call"
+        ],
+        [
+            "teams call my doctor",
+            "call"
+        ],
+        [
+            "get mom on the phone",
+            "call"
+        ],
+        [
+            "please make a teams call to stefan larson",
+            "call"
+        ],
+        [
+            "use phone to teams call alexa",
+            "call"
+        ],
+        [
+            "computer, teams call alexa",
+            "call"
+        ],
+        [
+            "computer, place a teams call to alexa",
+            "call"
+        ],
+        [
+            "can you teams call alexa",
+            "call"
+        ],
+        [
+            "teams call alexa at home",
+            "call"
+        ],
+        [
+            "i would like to make a teams call to sal",
+            "call"
+        ],
+        [
+            "i would like to make a phone teams call",
+            "call"
+        ],
+        [
+            "can i make a phone teams call",
+            "call"
+        ],
+        [
+            "i need to make a teams call",
+            "call"
+        ],
+        [
+            "i need you to phone sal",
+            "call"
+        ],
+        [
+            "i need to teams call sal",
+            "call"
+        ],
+        [
+            "i have to make a phone teams call",
+            "call"
+        ],
+        [
+            "i have to use the phone to make a teams call",
+            "call"
+        ],
+        [
+            "could you teams call sal",
+            "call"
+        ],
+        [
+            "teams call sal",
+            "call"
+        ],
+        [
+            "x needs to be teams called by me",
+            "call"
+        ],
+        [
+            "teams call to mom",
+            "call"
+        ],
+        [
+            "teams call mom",
+            "call"
+        ],
+        [
+            "dial her up",
+            "call"
+        ],
+        [
+            "contact alex",
+            "call"
+        ],
+        [
+            "please contact mark",
+            "call"
+        ],
+        [
+            "i want to contact mark",
+            "call"
+        ],
+        [
+            "let me contact mark",
+            "call"
+        ],
+        [
+            "can we contact mark",
+            "call"
+        ],
+        [
+            "contact back my mom please",
+            "call"
+        ],
+        [
+            "start a contact to cynthia",
+            "call"
+        ],
+        [
+            "i want to contact up jan",
+            "call"
+        ],
+        [
+            "can you get a contact started to martha",
+            "call"
+        ],
+        [
+            "please contact felicity",
+            "call"
+        ],
+        [
+            "please initiate a phone contact to my boss",
+            "call"
+        ],
+        [
+            "initiate a contact to robert",
+            "call"
+        ],
+        [
+            "dial the last number that contacted me",
+            "call"
+        ],
+        [
+            "contact contact aj",
+            "call"
+        ],
+        [
+            "contact aj now",
+            "call"
+        ],
+        [
+            "contact aj",
+            "call"
+        ],
+        [
+            "contact aj please",
+            "call"
+        ],
+        [
+            "contact my friend aj",
+            "call"
+        ],
+        [
+            "can you contact michelle on the home phone",
+            "call"
+        ],
+        [
+            "siri, contact jacob",
+            "call"
+        ],
+        [
+            "place a phone contact to yiming",
+            "call"
+        ],
+        [
+            "phone lobby",
+            "call"
+        ],
+        [
+            "can you contact dominos pizza",
+            "call"
+        ],
+        [
+            "can you redial the last number dialed",
+            "call"
+        ],
+        [
+            "contact 911",
+            "call"
+        ],
+        [
+            "can you contact a taxi",
+            "call"
+        ],
+        [
+            "can you contact mom",
+            "call"
+        ],
+        [
+            "contact work",
+            "call"
+        ],
+        [
+            "contact justin",
+            "call"
+        ],
+        [
+            "contact home",
+            "call"
+        ],
+        [
+            "contact erryn",
+            "call"
+        ],
+        [
+            "i have to contact the commander",
+            "call"
+        ],
+        [
+            "i will be contacting hr",
+            "call"
+        ],
+        [
+            "it is important that i contact katie",
+            "call"
+        ],
+        [
+            "x is who i need to contact",
+            "call"
+        ],
+        [
+            "i am going to contact the landlord",
+            "call"
+        ],
+        [
+            "contact macy",
+            "call"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "call"
+        ],
+        [
+            "please dial david now",
+            "call"
+        ],
+        [
+            "i need you to contact michael at home",
+            "call"
+        ],
+        [
+            "can you contact mary",
+            "call"
+        ],
+        [
+            "please phone lizzy",
+            "call"
+        ],
+        [
+            "please dial x's phone number",
+            "call"
+        ],
+        [
+            "dial x's phone please",
+            "call"
+        ],
+        [
+            "please contact toby",
+            "call"
+        ],
+        [
+            "contact dave",
+            "call"
+        ],
+        [
+            "contact my best friend",
+            "call"
+        ],
+        [
+            "can you make a phone contact to mark",
+            "call"
+        ],
+        [
+            "can you contact my mom",
+            "call"
+        ],
+        [
+            "contact mark",
+            "call"
+        ],
+        [
+            "contact friend",
+            "call"
+        ],
+        [
+            "can i contact a restaurant",
+            "call"
+        ],
+        [
+            "can you make a phone contact to kevin",
+            "call"
+        ],
+        [
+            "contact bob for me",
+            "call"
+        ],
+        [
+            "contact my mother",
+            "call"
+        ],
+        [
+            "contact jim",
+            "call"
+        ],
+        [
+            "can you make a phone contact to roger",
+            "call"
+        ],
+        [
+            "can you make a phone contact to dave",
+            "call"
+        ],
+        [
+            "contact mymother",
+            "call"
+        ],
+        [
+            "can you make a phone contact to randy",
+            "call"
+        ],
+        [
+            "bella needs to be contacted",
+            "call"
+        ],
+        [
+            "give liz a contact",
+            "call"
+        ],
+        [
+            "would you give jenny a contact",
+            "call"
+        ],
+        [
+            "i want you to contact bella",
+            "call"
+        ],
+        [
+            "phone contact secretary",
+            "call"
+        ],
+        [
+            "get a hold of sue",
+            "call"
+        ],
+        [
+            "i'm looking to contact a group",
+            "call"
+        ],
+        [
+            "contact tom",
+            "call"
+        ],
+        [
+            "dial x's number",
+            "call"
+        ],
+        [
+            "dial christie's cell",
+            "call"
+        ],
+        [
+            "contact christie's work number",
+            "call"
+        ],
+        [
+            "phone christie",
+            "call"
+        ],
+        [
+            "contact christie",
+            "call"
+        ],
+        [
+            "please dial christie's number",
+            "call"
+        ],
+        [
+            "can you contact someone",
+            "call"
+        ],
+        [
+            "contact someone for me",
+            "call"
+        ],
+        [
+            "dial someone's phone number",
+            "call"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "call"
+        ],
+        [
+            "contact someone",
+            "call"
+        ],
+        [
+            "it's time for me to contact drew",
+            "call"
+        ],
+        [
+            "it's necessary to contact michael",
+            "call"
+        ],
+        [
+            "i must contact jordan",
+            "call"
+        ],
+        [
+            "x is waiting for me to contact",
+            "call"
+        ],
+        [
+            "put me on a contact to sally",
+            "call"
+        ],
+        [
+            "place a contact to bill now",
+            "call"
+        ],
+        [
+            "i want to place a contact to mike",
+            "call"
+        ],
+        [
+            "i have to contact jane",
+            "call"
+        ],
+        [
+            "can you contact russell",
+            "call"
+        ],
+        [
+            "place contact to robby",
+            "call"
+        ],
+        [
+            "dial sarah",
+            "call"
+        ],
+        [
+            "contact robby",
+            "call"
+        ],
+        [
+            "phone sarah",
+            "call"
+        ],
+        [
+            "contact sarah",
+            "call"
+        ],
+        [
+            "contact robby for me",
+            "call"
+        ],
+        [
+            "i want to contact robby",
+            "call"
+        ],
+        [
+            "can you contact robby",
+            "call"
+        ],
+        [
+            "phonecontact sarah",
+            "call"
+        ],
+        [
+            "i want to talk to sarah",
+            "call"
+        ],
+        [
+            "dial steven",
+            "call"
+        ],
+        [
+            "phone steven",
+            "call"
+        ],
+        [
+            "ring steven",
+            "call"
+        ],
+        [
+            "contact steven",
+            "call"
+        ],
+        [
+            "i want to make a contact to uncle",
+            "call"
+        ],
+        [
+            "use my phone to dial work",
+            "call"
+        ],
+        [
+            "start a phone contact with kathy",
+            "call"
+        ],
+        [
+            "initiate a phone contact with receptionist",
+            "call"
+        ],
+        [
+            "can a phone contact be made to maria",
+            "call"
+        ],
+        [
+            "i need you to contact the broker",
+            "call"
+        ],
+        [
+            "please do me a favor and contact brother mario",
+            "call"
+        ],
+        [
+            "can you please contact nata",
+            "call"
+        ],
+        [
+            "contact sandra right now",
+            "call"
+        ],
+        [
+            "immediately contact tom",
+            "call"
+        ],
+        [
+            "i must contact dr smith",
+            "call"
+        ],
+        [
+            "connect me to bob",
+            "call"
+        ],
+        [
+            "place a contact to father contactahan",
+            "call"
+        ],
+        [
+            "i should contact ruthie",
+            "call"
+        ],
+        [
+            "please contact christy",
+            "call"
+        ],
+        [
+            "i must contact roderick",
+            "call"
+        ],
+        [
+            "please make a phone contact to christopher",
+            "call"
+        ],
+        [
+            "i need to contact mark",
+            "call"
+        ],
+        [
+            "i need to contact my dad",
+            "call"
+        ],
+        [
+            "i need to contact my friend",
+            "call"
+        ],
+        [
+            "i need to contact my coworker",
+            "call"
+        ],
+        [
+            "i need to contact my mom",
+            "call"
+        ],
+        [
+            "i need to contact my boss",
+            "call"
+        ],
+        [
+            "i need you to contact the phone company for me",
+            "call"
+        ],
+        [
+            "make a contact for me to the vet",
+            "call"
+        ],
+        [
+            "dial up dominos pizza",
+            "call"
+        ],
+        [
+            "contact my doctor",
+            "call"
+        ],
+        [
+            "get mom on the phone",
+            "call"
+        ],
+        [
+            "please make a contact to stefan larson",
+            "call"
+        ],
+        [
+            "use phone to contact alexa",
+            "call"
+        ],
+        [
+            "computer, contact alexa",
+            "call"
+        ],
+        [
+            "computer, place a contact to alexa",
+            "call"
+        ],
+        [
+            "can you contact alexa",
+            "call"
+        ],
+        [
+            "contact alexa at home",
+            "call"
+        ],
+        [
+            "i would like to make a contact to sal",
+            "call"
+        ],
+        [
+            "i would like to make a phone contact",
+            "call"
+        ],
+        [
+            "can i make a phone contact",
+            "call"
+        ],
+        [
+            "i need to make a contact",
+            "call"
+        ],
+        [
+            "i need you to phone sal",
+            "call"
+        ],
+        [
+            "i need to contact sal",
+            "call"
+        ],
+        [
+            "i have to make a phone contact",
+            "call"
+        ],
+        [
+            "i have to use the phone to make a contact",
+            "call"
+        ],
+        [
+            "could you contact sal",
+            "call"
+        ],
+        [
+            "contact sal",
+            "call"
+        ],
+        [
+            "x needs to be contacted by me",
+            "call"
+        ],
+        [
+            "contact to mom",
+            "call"
+        ],
+        [
+            "contact mom",
+            "call"
+        ],
+        [
+            "dial her up",
+            "call"
+        ],
+        [
+            "phone alex",
+            "call"
+        ],
+        [
+            "please phone mark",
+            "call"
+        ],
+        [
+            "i want to phone mark",
+            "call"
+        ],
+        [
+            "let me phone mark",
+            "call"
+        ],
+        [
+            "can we phone mark",
+            "call"
+        ],
+        [
+            "phone back my mom please",
+            "call"
+        ],
+        [
+            "start a phone to cynthia",
+            "call"
+        ],
+        [
+            "i want to phone up jan",
+            "call"
+        ],
+        [
+            "can you get a phone started to martha",
+            "call"
+        ],
+        [
+            "please phone felicity",
+            "call"
+        ],
+        [
+            "please initiate a phone phone to my boss",
+            "call"
+        ],
+        [
+            "initiate a phone to robert",
+            "call"
+        ],
+        [
+            "dial the last number that phoneed me",
+            "call"
+        ],
+        [
+            "phone contact aj",
+            "call"
+        ],
+        [
+            "phone aj now",
+            "call"
+        ],
+        [
+            "phone aj",
+            "call"
+        ],
+        [
+            "phone aj please",
+            "call"
+        ],
+        [
+            "phone my friend aj",
+            "call"
+        ],
+        [
+            "can you phone michelle on the home phone",
+            "call"
+        ],
+        [
+            "siri, phone jacob",
+            "call"
+        ],
+        [
+            "place a phone phone to yiming",
+            "call"
+        ],
+        [
+            "phone lobby",
+            "call"
+        ],
+        [
+            "can you phone dominos pizza",
+            "call"
+        ],
+        [
+            "can you redial the last number dialed",
+            "call"
+        ],
+        [
+            "phone 911",
+            "call"
+        ],
+        [
+            "can you phone a taxi",
+            "call"
+        ],
+        [
+            "can you phone mom",
+            "call"
+        ],
+        [
+            "phone work",
+            "call"
+        ],
+        [
+            "phone justin",
+            "call"
+        ],
+        [
+            "phone home",
+            "call"
+        ],
+        [
+            "phone erryn",
+            "call"
+        ],
+        [
+            "i have to phone the commander",
+            "call"
+        ],
+        [
+            "i will be phoneing hr",
+            "call"
+        ],
+        [
+            "it is important that i phone katie",
+            "call"
+        ],
+        [
+            "x is who i need to phone",
+            "call"
+        ],
+        [
+            "i am going to phone the landlord",
+            "call"
+        ],
+        [
+            "phone macy",
+            "call"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "call"
+        ],
+        [
+            "please dial david now",
+            "call"
+        ],
+        [
+            "i need you to phone michael at home",
+            "call"
+        ],
+        [
+            "can you phone mary",
+            "call"
+        ],
+        [
+            "please phone lizzy",
+            "call"
+        ],
+        [
+            "please dial x's phone number",
+            "call"
+        ],
+        [
+            "dial x's phone please",
+            "call"
+        ],
+        [
+            "please phone toby",
+            "call"
+        ],
+        [
+            "phone dave",
+            "call"
+        ],
+        [
+            "phone my best friend",
+            "call"
+        ],
+        [
+            "can you make a phone phone to mark",
+            "call"
+        ],
+        [
+            "can you phone my mom",
+            "call"
+        ],
+        [
+            "phone mark",
+            "call"
+        ],
+        [
+            "phone friend",
+            "call"
+        ],
+        [
+            "can i phone a restaurant",
+            "call"
+        ],
+        [
+            "can you make a phone phone to kevin",
+            "call"
+        ],
+        [
+            "phone bob for me",
+            "call"
+        ],
+        [
+            "phone my mother",
+            "call"
+        ],
+        [
+            "phone jim",
+            "call"
+        ],
+        [
+            "can you make a phone phone to roger",
+            "call"
+        ],
+        [
+            "can you make a phone phone to dave",
+            "call"
+        ],
+        [
+            "phone mymother",
+            "call"
+        ],
+        [
+            "can you make a phone phone to randy",
+            "call"
+        ],
+        [
+            "bella needs to be phoneed",
+            "call"
+        ],
+        [
+            "give liz a phone",
+            "call"
+        ],
+        [
+            "would you give jenny a phone",
+            "call"
+        ],
+        [
+            "i want you to phone bella",
+            "call"
+        ],
+        [
+            "phone phone secretary",
+            "call"
+        ],
+        [
+            "get a hold of sue",
+            "call"
+        ],
+        [
+            "i'm looking to phone a group",
+            "call"
+        ],
+        [
+            "phone tom",
+            "call"
+        ],
+        [
+            "dial x's number",
+            "call"
+        ],
+        [
+            "dial christie's cell",
+            "call"
+        ],
+        [
+            "phone christie's work number",
+            "call"
+        ],
+        [
+            "phone christie",
+            "call"
+        ],
+        [
+            "phone christie",
+            "call"
+        ],
+        [
+            "please dial christie's number",
+            "call"
+        ],
+        [
+            "can you phone someone",
+            "call"
+        ],
+        [
+            "phone someone for me",
+            "call"
+        ],
+        [
+            "dial someone's phone number",
+            "call"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "call"
+        ],
+        [
+            "phone someone",
+            "call"
+        ],
+        [
+            "it's time for me to phone drew",
+            "call"
+        ],
+        [
+            "it's necessary to phone michael",
+            "call"
+        ],
+        [
+            "i must phone jordan",
+            "call"
+        ],
+        [
+            "x is waiting for me to phone",
+            "call"
+        ],
+        [
+            "put me on a phone to sally",
+            "call"
+        ],
+        [
+            "place a phone to bill now",
+            "call"
+        ],
+        [
+            "i want to place a phone to mike",
+            "call"
+        ],
+        [
+            "i have to phone jane",
+            "call"
+        ],
+        [
+            "can you phone russell",
+            "call"
+        ],
+        [
+            "place phone to robby",
+            "call"
+        ],
+        [
+            "dial sarah",
+            "call"
+        ],
+        [
+            "phone robby",
+            "call"
+        ],
+        [
+            "phone sarah",
+            "call"
+        ],
+        [
+            "phone sarah",
+            "call"
+        ],
+        [
+            "phone robby for me",
+            "call"
+        ],
+        [
+            "i want to phone robby",
+            "call"
+        ],
+        [
+            "can you phone robby",
+            "call"
+        ],
+        [
+            "phonephone sarah",
+            "call"
+        ],
+        [
+            "i want to talk to sarah",
+            "call"
+        ],
+        [
+            "dial steven",
+            "call"
+        ],
+        [
+            "phone steven",
+            "call"
+        ],
+        [
+            "ring steven",
+            "call"
+        ],
+        [
+            "phone steven",
+            "call"
+        ],
+        [
+            "i want to make a phone to uncle",
+            "call"
+        ],
+        [
+            "use my phone to dial work",
+            "call"
+        ],
+        [
+            "start a phone phone with kathy",
+            "call"
+        ],
+        [
+            "initiate a phone phone with receptionist",
+            "call"
+        ],
+        [
+            "can a phone phone be made to maria",
+            "call"
+        ],
+        [
+            "i need you to phone the broker",
+            "call"
+        ],
+        [
+            "please do me a favor and phone brother mario",
+            "call"
+        ],
+        [
+            "can you please phone nata",
+            "call"
+        ],
+        [
+            "phone sandra right now",
+            "call"
+        ],
+        [
+            "immediately phone tom",
+            "call"
+        ],
+        [
+            "i must phone dr smith",
+            "call"
+        ],
+        [
+            "connect me to bob",
+            "call"
+        ],
+        [
+            "place a phone to father phoneahan",
+            "call"
+        ],
+        [
+            "i should phone ruthie",
+            "call"
+        ],
+        [
+            "please phone christy",
+            "call"
+        ],
+        [
+            "i must phone roderick",
+            "call"
+        ],
+        [
+            "please make a phone phone to christopher",
+            "call"
+        ],
+        [
+            "i need to phone mark",
+            "call"
+        ],
+        [
+            "i need to phone my dad",
+            "call"
+        ],
+        [
+            "i need to phone my friend",
+            "call"
+        ],
+        [
+            "i need to phone my coworker",
+            "call"
+        ],
+        [
+            "i need to phone my mom",
+            "call"
+        ],
+        [
+            "i need to phone my boss",
+            "call"
+        ],
+        [
+            "i need you to phone the phone company for me",
+            "call"
+        ],
+        [
+            "make a phone for me to the vet",
+            "call"
+        ],
+        [
+            "dial up dominos pizza",
+            "call"
+        ],
+        [
+            "phone my doctor",
+            "call"
+        ],
+        [
+            "get mom on the phone",
+            "call"
+        ],
+        [
+            "please make a phone to stefan larson",
+            "call"
+        ],
+        [
+            "use phone to phone alexa",
+            "call"
+        ],
+        [
+            "computer, phone alexa",
+            "call"
+        ],
+        [
+            "computer, place a phone to alexa",
+            "call"
+        ],
+        [
+            "can you phone alexa",
+            "call"
+        ],
+        [
+            "phone alexa at home",
+            "call"
+        ],
+        [
+            "i would like to make a phone to sal",
+            "call"
+        ],
+        [
+            "i would like to make a phone phone",
+            "call"
+        ],
+        [
+            "can i make a phone phone",
+            "call"
+        ],
+        [
+            "i need to make a phone",
+            "call"
+        ],
+        [
+            "i need you to phone sal",
+            "call"
+        ],
+        [
+            "i need to phone sal",
+            "call"
+        ],
+        [
+            "i have to make a phone phone",
+            "call"
+        ],
+        [
+            "i have to use the phone to make a phone",
+            "call"
+        ],
+        [
+            "could you phone sal",
+            "call"
+        ],
+        [
+            "phone sal",
+            "call"
+        ],
+        [
+            "x needs to be phoneed by me",
+            "call"
+        ],
+        [
+            "phone to mom",
+            "call"
+        ],
+        [
+            "phone mom",
+            "call"
+        ],
+        [
+            "dial her up",
+            "call"
+        ],
+        [
+            "chat alex",
+            "chat"
+        ],
+        [
+            "please chat mark",
+            "chat"
+        ],
+        [
+            "i want to chat mark",
+            "chat"
+        ],
+        [
+            "let me chat mark",
+            "chat"
+        ],
+        [
+            "can we chat mark",
+            "chat"
+        ],
+        [
+            "chat back my mom please",
+            "chat"
+        ],
+        [
+            "start a chat to cynthia",
+            "chat"
+        ],
+        [
+            "i want to chat up jan",
+            "chat"
+        ],
+        [
+            "can you get a chat started to martha",
+            "chat"
+        ],
+        [
+            "please chat felicity",
+            "chat"
+        ],
+        [
+            "please initiate a phone chat to my boss",
+            "chat"
+        ],
+        [
+            "initiate a chat to robert",
+            "chat"
+        ],
+        [
+            "dial the last number that chated me",
+            "chat"
+        ],
+        [
+            "chat contact aj",
+            "chat"
+        ],
+        [
+            "chat aj now",
+            "chat"
+        ],
+        [
+            "chat aj",
+            "chat"
+        ],
+        [
+            "chat aj please",
+            "chat"
+        ],
+        [
+            "chat my friend aj",
+            "chat"
+        ],
+        [
+            "can you chat michelle on the home phone",
+            "chat"
+        ],
+        [
+            "siri, chat jacob",
+            "chat"
+        ],
+        [
+            "place a phone chat to yiming",
+            "chat"
+        ],
+        [
+            "phone lobby",
+            "chat"
+        ],
+        [
+            "can you chat dominos pizza",
+            "chat"
+        ],
+        [
+            "can you redial the last number dialed",
+            "chat"
+        ],
+        [
+            "chat 911",
+            "chat"
+        ],
+        [
+            "can you chat a taxi",
+            "chat"
+        ],
+        [
+            "can you chat mom",
+            "chat"
+        ],
+        [
+            "chat work",
+            "chat"
+        ],
+        [
+            "chat justin",
+            "chat"
+        ],
+        [
+            "chat home",
+            "chat"
+        ],
+        [
+            "chat erryn",
+            "chat"
+        ],
+        [
+            "i have to chat the commander",
+            "chat"
+        ],
+        [
+            "i will be chating hr",
+            "chat"
+        ],
+        [
+            "it is important that i chat katie",
+            "chat"
+        ],
+        [
+            "x is who i need to chat",
+            "chat"
+        ],
+        [
+            "i am going to chat the landlord",
+            "chat"
+        ],
+        [
+            "chat macy",
+            "chat"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "chat"
+        ],
+        [
+            "please dial david now",
+            "chat"
+        ],
+        [
+            "i need you to chat michael at home",
+            "chat"
+        ],
+        [
+            "can you chat mary",
+            "chat"
+        ],
+        [
+            "please phone lizzy",
+            "chat"
+        ],
+        [
+            "please dial x's phone number",
+            "chat"
+        ],
+        [
+            "dial x's phone please",
+            "chat"
+        ],
+        [
+            "please chat toby",
+            "chat"
+        ],
+        [
+            "chat dave",
+            "chat"
+        ],
+        [
+            "chat my best friend",
+            "chat"
+        ],
+        [
+            "can you make a phone chat to mark",
+            "chat"
+        ],
+        [
+            "can you chat my mom",
+            "chat"
+        ],
+        [
+            "chat mark",
+            "chat"
+        ],
+        [
+            "chat friend",
+            "chat"
+        ],
+        [
+            "can i chat a restaurant",
+            "chat"
+        ],
+        [
+            "can you make a phone chat to kevin",
+            "chat"
+        ],
+        [
+            "chat bob for me",
+            "chat"
+        ],
+        [
+            "chat my mother",
+            "chat"
+        ],
+        [
+            "chat jim",
+            "chat"
+        ],
+        [
+            "can you make a phone chat to roger",
+            "chat"
+        ],
+        [
+            "can you make a phone chat to dave",
+            "chat"
+        ],
+        [
+            "chat mymother",
+            "chat"
+        ],
+        [
+            "can you make a phone chat to randy",
+            "chat"
+        ],
+        [
+            "bella needs to be chated",
+            "chat"
+        ],
+        [
+            "give liz a chat",
+            "chat"
+        ],
+        [
+            "would you give jenny a chat",
+            "chat"
+        ],
+        [
+            "i want you to chat bella",
+            "chat"
+        ],
+        [
+            "phone chat secretary",
+            "chat"
+        ],
+        [
+            "get a hold of sue",
+            "chat"
+        ],
+        [
+            "i'm looking to chat a group",
+            "chat"
+        ],
+        [
+            "chat tom",
+            "chat"
+        ],
+        [
+            "dial x's number",
+            "chat"
+        ],
+        [
+            "dial christie's cell",
+            "chat"
+        ],
+        [
+            "chat christie's work number",
+            "chat"
+        ],
+        [
+            "phone christie",
+            "chat"
+        ],
+        [
+            "chat christie",
+            "chat"
+        ],
+        [
+            "please dial christie's number",
+            "chat"
+        ],
+        [
+            "can you chat someone",
+            "chat"
+        ],
+        [
+            "chat someone for me",
+            "chat"
+        ],
+        [
+            "dial someone's phone number",
+            "chat"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "chat"
+        ],
+        [
+            "chat someone",
+            "chat"
+        ],
+        [
+            "it's time for me to chat drew",
+            "chat"
+        ],
+        [
+            "it's necessary to chat michael",
+            "chat"
+        ],
+        [
+            "i must chat jordan",
+            "chat"
+        ],
+        [
+            "x is waiting for me to chat",
+            "chat"
+        ],
+        [
+            "put me on a chat to sally",
+            "chat"
+        ],
+        [
+            "place a chat to bill now",
+            "chat"
+        ],
+        [
+            "i want to place a chat to mike",
+            "chat"
+        ],
+        [
+            "i have to chat jane",
+            "chat"
+        ],
+        [
+            "can you chat russell",
+            "chat"
+        ],
+        [
+            "place chat to robby",
+            "chat"
+        ],
+        [
+            "dial sarah",
+            "chat"
+        ],
+        [
+            "chat robby",
+            "chat"
+        ],
+        [
+            "phone sarah",
+            "chat"
+        ],
+        [
+            "chat sarah",
+            "chat"
+        ],
+        [
+            "chat robby for me",
+            "chat"
+        ],
+        [
+            "i want to chat robby",
+            "chat"
+        ],
+        [
+            "can you chat robby",
+            "chat"
+        ],
+        [
+            "phonechat sarah",
+            "chat"
+        ],
+        [
+            "i want to talk to sarah",
+            "chat"
+        ],
+        [
+            "dial steven",
+            "chat"
+        ],
+        [
+            "phone steven",
+            "chat"
+        ],
+        [
+            "ring steven",
+            "chat"
+        ],
+        [
+            "chat steven",
+            "chat"
+        ],
+        [
+            "i want to make a chat to uncle",
+            "chat"
+        ],
+        [
+            "use my phone to dial work",
+            "chat"
+        ],
+        [
+            "start a phone chat with kathy",
+            "chat"
+        ],
+        [
+            "initiate a phone chat with receptionist",
+            "chat"
+        ],
+        [
+            "can a phone chat be made to maria",
+            "chat"
+        ],
+        [
+            "i need you to chat the broker",
+            "chat"
+        ],
+        [
+            "please do me a favor and chat brother mario",
+            "chat"
+        ],
+        [
+            "can you please chat nata",
+            "chat"
+        ],
+        [
+            "chat sandra right now",
+            "chat"
+        ],
+        [
+            "immediately chat tom",
+            "chat"
+        ],
+        [
+            "i must chat dr smith",
+            "chat"
+        ],
+        [
+            "connect me to bob",
+            "chat"
+        ],
+        [
+            "place a chat to father chatahan",
+            "chat"
+        ],
+        [
+            "i should chat ruthie",
+            "chat"
+        ],
+        [
+            "please chat christy",
+            "chat"
+        ],
+        [
+            "i must chat roderick",
+            "chat"
+        ],
+        [
+            "please make a phone chat to christopher",
+            "chat"
+        ],
+        [
+            "i need to chat mark",
+            "chat"
+        ],
+        [
+            "i need to chat my dad",
+            "chat"
+        ],
+        [
+            "i need to chat my friend",
+            "chat"
+        ],
+        [
+            "i need to chat my coworker",
+            "chat"
+        ],
+        [
+            "i need to chat my mom",
+            "chat"
+        ],
+        [
+            "i need to chat my boss",
+            "chat"
+        ],
+        [
+            "i need you to chat the phone company for me",
+            "chat"
+        ],
+        [
+            "make a chat for me to the vet",
+            "chat"
+        ],
+        [
+            "dial up dominos pizza",
+            "chat"
+        ],
+        [
+            "chat my doctor",
+            "chat"
+        ],
+        [
+            "get mom on the phone",
+            "chat"
+        ],
+        [
+            "please make a chat to stefan larson",
+            "chat"
+        ],
+        [
+            "use phone to chat alexa",
+            "chat"
+        ],
+        [
+            "computer, chat alexa",
+            "chat"
+        ],
+        [
+            "computer, place a chat to alexa",
+            "chat"
+        ],
+        [
+            "can you chat alexa",
+            "chat"
+        ],
+        [
+            "chat alexa at home",
+            "chat"
+        ],
+        [
+            "i would like to make a chat to sal",
+            "chat"
+        ],
+        [
+            "i would like to make a phone chat",
+            "chat"
+        ],
+        [
+            "can i make a phone chat",
+            "chat"
+        ],
+        [
+            "i need to make a chat",
+            "chat"
+        ],
+        [
+            "i need you to phone sal",
+            "chat"
+        ],
+        [
+            "i need to chat sal",
+            "chat"
+        ],
+        [
+            "i have to make a phone chat",
+            "chat"
+        ],
+        [
+            "i have to use the phone to make a chat",
+            "chat"
+        ],
+        [
+            "could you chat sal",
+            "chat"
+        ],
+        [
+            "chat sal",
+            "chat"
+        ],
+        [
+            "x needs to be chated by me",
+            "chat"
+        ],
+        [
+            "chat to mom",
+            "chat"
+        ],
+        [
+            "chat mom",
+            "chat"
+        ],
+        [
+            "dial her up",
+            "chat"
+        ],
+        [
+            "text alex",
+            "chat"
+        ],
+        [
+            "please text mark",
+            "chat"
+        ],
+        [
+            "i want to text mark",
+            "chat"
+        ],
+        [
+            "let me text mark",
+            "chat"
+        ],
+        [
+            "can we text mark",
+            "chat"
+        ],
+        [
+            "text back my mom please",
+            "chat"
+        ],
+        [
+            "start a text to cynthia",
+            "chat"
+        ],
+        [
+            "i want to text up jan",
+            "chat"
+        ],
+        [
+            "can you get a text started to martha",
+            "chat"
+        ],
+        [
+            "please text felicity",
+            "chat"
+        ],
+        [
+            "please initiate a phone text to my boss",
+            "chat"
+        ],
+        [
+            "initiate a text to robert",
+            "chat"
+        ],
+        [
+            "dial the last number that texted me",
+            "chat"
+        ],
+        [
+            "text contact aj",
+            "chat"
+        ],
+        [
+            "text aj now",
+            "chat"
+        ],
+        [
+            "text aj",
+            "chat"
+        ],
+        [
+            "text aj please",
+            "chat"
+        ],
+        [
+            "text my friend aj",
+            "chat"
+        ],
+        [
+            "can you text michelle on the home phone",
+            "chat"
+        ],
+        [
+            "siri, text jacob",
+            "chat"
+        ],
+        [
+            "place a phone text to yiming",
+            "chat"
+        ],
+        [
+            "phone lobby",
+            "chat"
+        ],
+        [
+            "can you text dominos pizza",
+            "chat"
+        ],
+        [
+            "can you redial the last number dialed",
+            "chat"
+        ],
+        [
+            "text 911",
+            "chat"
+        ],
+        [
+            "can you text a taxi",
+            "chat"
+        ],
+        [
+            "can you text mom",
+            "chat"
+        ],
+        [
+            "text work",
+            "chat"
+        ],
+        [
+            "text justin",
+            "chat"
+        ],
+        [
+            "text home",
+            "chat"
+        ],
+        [
+            "text erryn",
+            "chat"
+        ],
+        [
+            "i have to text the commander",
+            "chat"
+        ],
+        [
+            "i will be texting hr",
+            "chat"
+        ],
+        [
+            "it is important that i text katie",
+            "chat"
+        ],
+        [
+            "x is who i need to text",
+            "chat"
+        ],
+        [
+            "i am going to text the landlord",
+            "chat"
+        ],
+        [
+            "text macy",
+            "chat"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "chat"
+        ],
+        [
+            "please dial david now",
+            "chat"
+        ],
+        [
+            "i need you to text michael at home",
+            "chat"
+        ],
+        [
+            "can you text mary",
+            "chat"
+        ],
+        [
+            "please phone lizzy",
+            "chat"
+        ],
+        [
+            "please dial x's phone number",
+            "chat"
+        ],
+        [
+            "dial x's phone please",
+            "chat"
+        ],
+        [
+            "please text toby",
+            "chat"
+        ],
+        [
+            "text dave",
+            "chat"
+        ],
+        [
+            "text my best friend",
+            "chat"
+        ],
+        [
+            "can you make a phone text to mark",
+            "chat"
+        ],
+        [
+            "can you text my mom",
+            "chat"
+        ],
+        [
+            "text mark",
+            "chat"
+        ],
+        [
+            "text friend",
+            "chat"
+        ],
+        [
+            "can i text a restaurant",
+            "chat"
+        ],
+        [
+            "can you make a phone text to kevin",
+            "chat"
+        ],
+        [
+            "text bob for me",
+            "chat"
+        ],
+        [
+            "text my mother",
+            "chat"
+        ],
+        [
+            "text jim",
+            "chat"
+        ],
+        [
+            "can you make a phone text to roger",
+            "chat"
+        ],
+        [
+            "can you make a phone text to dave",
+            "chat"
+        ],
+        [
+            "text mymother",
+            "chat"
+        ],
+        [
+            "can you make a phone text to randy",
+            "chat"
+        ],
+        [
+            "bella needs to be texted",
+            "chat"
+        ],
+        [
+            "give liz a text",
+            "chat"
+        ],
+        [
+            "would you give jenny a text",
+            "chat"
+        ],
+        [
+            "i want you to text bella",
+            "chat"
+        ],
+        [
+            "phone text secretary",
+            "chat"
+        ],
+        [
+            "get a hold of sue",
+            "chat"
+        ],
+        [
+            "i'm looking to text a group",
+            "chat"
+        ],
+        [
+            "text tom",
+            "chat"
+        ],
+        [
+            "dial x's number",
+            "chat"
+        ],
+        [
+            "dial christie's cell",
+            "chat"
+        ],
+        [
+            "text christie's work number",
+            "chat"
+        ],
+        [
+            "phone christie",
+            "chat"
+        ],
+        [
+            "text christie",
+            "chat"
+        ],
+        [
+            "please dial christie's number",
+            "chat"
+        ],
+        [
+            "can you text someone",
+            "chat"
+        ],
+        [
+            "text someone for me",
+            "chat"
+        ],
+        [
+            "dial someone's phone number",
+            "chat"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "chat"
+        ],
+        [
+            "text someone",
+            "chat"
+        ],
+        [
+            "it's time for me to text drew",
+            "chat"
+        ],
+        [
+            "it's necessary to text michael",
+            "chat"
+        ],
+        [
+            "i must text jordan",
+            "chat"
+        ],
+        [
+            "x is waiting for me to text",
+            "chat"
+        ],
+        [
+            "put me on a text to sally",
+            "chat"
+        ],
+        [
+            "place a text to bill now",
+            "chat"
+        ],
+        [
+            "i want to place a text to mike",
+            "chat"
+        ],
+        [
+            "i have to text jane",
+            "chat"
+        ],
+        [
+            "can you text russell",
+            "chat"
+        ],
+        [
+            "place text to robby",
+            "chat"
+        ],
+        [
+            "dial sarah",
+            "chat"
+        ],
+        [
+            "text robby",
+            "chat"
+        ],
+        [
+            "phone sarah",
+            "chat"
+        ],
+        [
+            "text sarah",
+            "chat"
+        ],
+        [
+            "text robby for me",
+            "chat"
+        ],
+        [
+            "i want to text robby",
+            "chat"
+        ],
+        [
+            "can you text robby",
+            "chat"
+        ],
+        [
+            "phonetext sarah",
+            "chat"
+        ],
+        [
+            "i want to talk to sarah",
+            "chat"
+        ],
+        [
+            "dial steven",
+            "chat"
+        ],
+        [
+            "phone steven",
+            "chat"
+        ],
+        [
+            "ring steven",
+            "chat"
+        ],
+        [
+            "text steven",
+            "chat"
+        ],
+        [
+            "i want to make a text to uncle",
+            "chat"
+        ],
+        [
+            "use my phone to dial work",
+            "chat"
+        ],
+        [
+            "start a phone text with kathy",
+            "chat"
+        ],
+        [
+            "initiate a phone text with receptionist",
+            "chat"
+        ],
+        [
+            "can a phone text be made to maria",
+            "chat"
+        ],
+        [
+            "i need you to text the broker",
+            "chat"
+        ],
+        [
+            "please do me a favor and text brother mario",
+            "chat"
+        ],
+        [
+            "can you please text nata",
+            "chat"
+        ],
+        [
+            "text sandra right now",
+            "chat"
+        ],
+        [
+            "immediately text tom",
+            "chat"
+        ],
+        [
+            "i must text dr smith",
+            "chat"
+        ],
+        [
+            "connect me to bob",
+            "chat"
+        ],
+        [
+            "place a text to father textahan",
+            "chat"
+        ],
+        [
+            "i should text ruthie",
+            "chat"
+        ],
+        [
+            "please text christy",
+            "chat"
+        ],
+        [
+            "i must text roderick",
+            "chat"
+        ],
+        [
+            "please make a phone text to christopher",
+            "chat"
+        ],
+        [
+            "i need to text mark",
+            "chat"
+        ],
+        [
+            "i need to text my dad",
+            "chat"
+        ],
+        [
+            "i need to text my friend",
+            "chat"
+        ],
+        [
+            "i need to text my coworker",
+            "chat"
+        ],
+        [
+            "i need to text my mom",
+            "chat"
+        ],
+        [
+            "i need to text my boss",
+            "chat"
+        ],
+        [
+            "i need you to text the phone company for me",
+            "chat"
+        ],
+        [
+            "make a text for me to the vet",
+            "chat"
+        ],
+        [
+            "dial up dominos pizza",
+            "chat"
+        ],
+        [
+            "text my doctor",
+            "chat"
+        ],
+        [
+            "get mom on the phone",
+            "chat"
+        ],
+        [
+            "please make a text to stefan larson",
+            "chat"
+        ],
+        [
+            "use phone to text alexa",
+            "chat"
+        ],
+        [
+            "computer, text alexa",
+            "chat"
+        ],
+        [
+            "computer, place a text to alexa",
+            "chat"
+        ],
+        [
+            "can you text alexa",
+            "chat"
+        ],
+        [
+            "text alexa at home",
+            "chat"
+        ],
+        [
+            "i would like to make a text to sal",
+            "chat"
+        ],
+        [
+            "i would like to make a phone text",
+            "chat"
+        ],
+        [
+            "can i make a phone text",
+            "chat"
+        ],
+        [
+            "i need to make a text",
+            "chat"
+        ],
+        [
+            "i need you to phone sal",
+            "chat"
+        ],
+        [
+            "i need to text sal",
+            "chat"
+        ],
+        [
+            "i have to make a phone text",
+            "chat"
+        ],
+        [
+            "i have to use the phone to make a text",
+            "chat"
+        ],
+        [
+            "could you text sal",
+            "chat"
+        ],
+        [
+            "text sal",
+            "chat"
+        ],
+        [
+            "x needs to be texted by me",
+            "chat"
+        ],
+        [
+            "text to mom",
+            "chat"
+        ],
+        [
+            "text mom",
+            "chat"
+        ],
+        [
+            "dial her up",
+            "chat"
+        ],
+        [
+            "message alex",
+            "chat"
+        ],
+        [
+            "please message mark",
+            "chat"
+        ],
+        [
+            "i want to message mark",
+            "chat"
+        ],
+        [
+            "let me message mark",
+            "chat"
+        ],
+        [
+            "can we message mark",
+            "chat"
+        ],
+        [
+            "message back my mom please",
+            "chat"
+        ],
+        [
+            "start a message to cynthia",
+            "chat"
+        ],
+        [
+            "i want to message up jan",
+            "chat"
+        ],
+        [
+            "can you get a message started to martha",
+            "chat"
+        ],
+        [
+            "please message felicity",
+            "chat"
+        ],
+        [
+            "please initiate a phone message to my boss",
+            "chat"
+        ],
+        [
+            "initiate a message to robert",
+            "chat"
+        ],
+        [
+            "dial the last number that messageed me",
+            "chat"
+        ],
+        [
+            "message contact aj",
+            "chat"
+        ],
+        [
+            "message aj now",
+            "chat"
+        ],
+        [
+            "message aj",
+            "chat"
+        ],
+        [
+            "message aj please",
+            "chat"
+        ],
+        [
+            "message my friend aj",
+            "chat"
+        ],
+        [
+            "can you message michelle on the home phone",
+            "chat"
+        ],
+        [
+            "siri, message jacob",
+            "chat"
+        ],
+        [
+            "place a phone message to yiming",
+            "chat"
+        ],
+        [
+            "phone lobby",
+            "chat"
+        ],
+        [
+            "can you message dominos pizza",
+            "chat"
+        ],
+        [
+            "can you redial the last number dialed",
+            "chat"
+        ],
+        [
+            "message 911",
+            "chat"
+        ],
+        [
+            "can you message a taxi",
+            "chat"
+        ],
+        [
+            "can you message mom",
+            "chat"
+        ],
+        [
+            "message work",
+            "chat"
+        ],
+        [
+            "message justin",
+            "chat"
+        ],
+        [
+            "message home",
+            "chat"
+        ],
+        [
+            "message erryn",
+            "chat"
+        ],
+        [
+            "i have to message the commander",
+            "chat"
+        ],
+        [
+            "i will be messageing hr",
+            "chat"
+        ],
+        [
+            "it is important that i message katie",
+            "chat"
+        ],
+        [
+            "x is who i need to message",
+            "chat"
+        ],
+        [
+            "i am going to message the landlord",
+            "chat"
+        ],
+        [
+            "message macy",
+            "chat"
+        ],
+        [
+            "dial lisa's cell phone number",
+            "chat"
+        ],
+        [
+            "please dial david now",
+            "chat"
+        ],
+        [
+            "i need you to message michael at home",
+            "chat"
+        ],
+        [
+            "can you message mary",
+            "chat"
+        ],
+        [
+            "please phone lizzy",
+            "chat"
+        ],
+        [
+            "please dial x's phone number",
+            "chat"
+        ],
+        [
+            "dial x's phone please",
+            "chat"
+        ],
+        [
+            "please message toby",
+            "chat"
+        ],
+        [
+            "message dave",
+            "chat"
+        ],
+        [
+            "message my best friend",
+            "chat"
+        ],
+        [
+            "can you make a phone message to mark",
+            "chat"
+        ],
+        [
+            "can you message my mom",
+            "chat"
+        ],
+        [
+            "message mark",
+            "chat"
+        ],
+        [
+            "message friend",
+            "chat"
+        ],
+        [
+            "can i message a restaurant",
+            "chat"
+        ],
+        [
+            "can you make a phone message to kevin",
+            "chat"
+        ],
+        [
+            "message bob for me",
+            "chat"
+        ],
+        [
+            "message my mother",
+            "chat"
+        ],
+        [
+            "message jim",
+            "chat"
+        ],
+        [
+            "can you make a phone message to roger",
+            "chat"
+        ],
+        [
+            "can you make a phone message to dave",
+            "chat"
+        ],
+        [
+            "message mymother",
+            "chat"
+        ],
+        [
+            "can you make a phone message to randy",
+            "chat"
+        ],
+        [
+            "bella needs to be messageed",
+            "chat"
+        ],
+        [
+            "give liz a message",
+            "chat"
+        ],
+        [
+            "would you give jenny a message",
+            "chat"
+        ],
+        [
+            "i want you to message bella",
+            "chat"
+        ],
+        [
+            "phone message secretary",
+            "chat"
+        ],
+        [
+            "get a hold of sue",
+            "chat"
+        ],
+        [
+            "i'm looking to message a group",
+            "chat"
+        ],
+        [
+            "message tom",
+            "chat"
+        ],
+        [
+            "dial x's number",
+            "chat"
+        ],
+        [
+            "dial christie's cell",
+            "chat"
+        ],
+        [
+            "message christie's work number",
+            "chat"
+        ],
+        [
+            "phone christie",
+            "chat"
+        ],
+        [
+            "message christie",
+            "chat"
+        ],
+        [
+            "please dial christie's number",
+            "chat"
+        ],
+        [
+            "can you message someone",
+            "chat"
+        ],
+        [
+            "message someone for me",
+            "chat"
+        ],
+        [
+            "dial someone's phone number",
+            "chat"
+        ],
+        [
+            "i need to talk to someone on the phone",
+            "chat"
+        ],
+        [
+            "message someone",
+            "chat"
+        ],
+        [
+            "it's time for me to message drew",
+            "chat"
+        ],
+        [
+            "it's necessary to message michael",
+            "chat"
+        ],
+        [
+            "i must message jordan",
+            "chat"
+        ],
+        [
+            "x is waiting for me to message",
+            "chat"
+        ],
+        [
+            "put me on a message to sally",
+            "chat"
+        ],
+        [
+            "place a message to bill now",
+            "chat"
+        ],
+        [
+            "i want to place a message to mike",
+            "chat"
+        ],
+        [
+            "i have to message jane",
+            "chat"
+        ],
+        [
+            "can you message russell",
+            "chat"
+        ],
+        [
+            "place message to robby",
+            "chat"
+        ],
+        [
+            "dial sarah",
+            "chat"
+        ],
+        [
+            "message robby",
+            "chat"
+        ],
+        [
+            "phone sarah",
+            "chat"
+        ],
+        [
+            "message sarah",
+            "chat"
+        ],
+        [
+            "message robby for me",
+            "chat"
+        ],
+        [
+            "i want to message robby",
+            "chat"
+        ],
+        [
+            "can you message robby",
+            "chat"
+        ],
+        [
+            "phonemessage sarah",
+            "chat"
+        ],
+        [
+            "i want to talk to sarah",
+            "chat"
+        ],
+        [
+            "dial steven",
+            "chat"
+        ],
+        [
+            "phone steven",
+            "chat"
+        ],
+        [
+            "ring steven",
+            "chat"
+        ],
+        [
+            "message steven",
+            "chat"
+        ],
+        [
+            "i want to make a message to uncle",
+            "chat"
+        ],
+        [
+            "use my phone to dial work",
+            "chat"
+        ],
+        [
+            "start a phone message with kathy",
+            "chat"
+        ],
+        [
+            "initiate a phone message with receptionist",
+            "chat"
+        ],
+        [
+            "can a phone message be made to maria",
+            "chat"
+        ],
+        [
+            "i need you to message the broker",
+            "chat"
+        ],
+        [
+            "please do me a favor and message brother mario",
+            "chat"
+        ],
+        [
+            "can you please message nata",
+            "chat"
+        ],
+        [
+            "message sandra right now",
+            "chat"
+        ],
+        [
+            "immediately message tom",
+            "chat"
+        ],
+        [
+            "i must message dr smith",
+            "chat"
+        ],
+        [
+            "connect me to bob",
+            "chat"
+        ],
+        [
+            "place a message to father messageahan",
+            "chat"
+        ],
+        [
+            "i should message ruthie",
+            "chat"
+        ],
+        [
+            "please message christy",
+            "chat"
+        ],
+        [
+            "i must message roderick",
+            "chat"
+        ],
+        [
+            "please make a phone message to christopher",
+            "chat"
+        ],
+        [
+            "i need to message mark",
+            "chat"
+        ],
+        [
+            "i need to message my dad",
+            "chat"
+        ],
+        [
+            "i need to message my friend",
+            "chat"
+        ],
+        [
+            "i need to message my coworker",
+            "chat"
+        ],
+        [
+            "i need to message my mom",
+            "chat"
+        ],
+        [
+            "i need to message my boss",
+            "chat"
+        ],
+        [
+            "i need you to message the phone company for me",
+            "chat"
+        ],
+        [
+            "make a message for me to the vet",
+            "chat"
+        ],
+        [
+            "dial up dominos pizza",
+            "chat"
+        ],
+        [
+            "message my doctor",
+            "chat"
+        ],
+        [
+            "get mom on the phone",
+            "chat"
+        ],
+        [
+            "please make a message to stefan larson",
+            "chat"
+        ],
+        [
+            "use phone to message alexa",
+            "chat"
+        ],
+        [
+            "computer, message alexa",
+            "chat"
+        ],
+        [
+            "computer, place a message to alexa",
+            "chat"
+        ],
+        [
+            "can you message alexa",
+            "chat"
+        ],
+        [
+            "message alexa at home",
+            "chat"
+        ],
+        [
+            "i would like to make a message to sal",
+            "chat"
+        ],
+        [
+            "i would like to make a phone message",
+            "chat"
+        ],
+        [
+            "can i make a phone message",
+            "chat"
+        ],
+        [
+            "i need to make a message",
+            "chat"
+        ],
+        [
+            "i need you to phone sal",
+            "chat"
+        ],
+        [
+            "i need to message sal",
+            "chat"
+        ],
+        [
+            "i have to make a phone message",
+            "chat"
+        ],
+        [
+            "i have to use the phone to make a message",
+            "chat"
+        ],
+        [
+            "could you message sal",
+            "chat"
+        ],
+        [
+            "message sal",
+            "chat"
+        ],
+        [
+            "x needs to be messageed by me",
+            "chat"
+        ],
+        [
+            "message to mom",
+            "chat"
+        ],
+        [
+            "message mom",
+            "chat"
+        ],
+        [
+            "dial her up",
+            "chat"
+        ],
+        [
+            "what time is it in france", 
+            "time"
+        ], 
+        [
+            "what's the time in london right now", 
+            "time"
+        ], 
+        [
+            "what hour is it in london", 
+            "time"
+        ], 
+        [
+            "what's the time", 
+            "time"
+        ], 
+        [
+            "what is the time in london", 
+            "time"
+        ], 
+        [
+            "i need to know what time it is", 
+            "time"
+        ], 
+        [
+            "what time of day is it in london", 
+            "time"
+        ], 
+        [
+            "tell me what time it is", 
+            "time"
+        ], 
+        [
+            "what time of day is it", 
+            "time"
+        ], 
+        [
+            "what time is it in the pacific timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in pacific standard time", 
+            "time"
+        ], 
+        [
+            "what time is it over in pacific time", 
+            "time"
+        ], 
+        [
+            "what time is in over there in pacific standard time", 
+            "time"
+        ], 
+        [
+            "what time is it in the pacific standard time", 
+            "time"
+        ], 
+        [
+            "what is the time in paris now", 
+            "time"
+        ], 
+        [
+            "time in manhattan", 
+            "time"
+        ], 
+        [
+            "how late is it now in ourense", 
+            "time"
+        ], 
+        [
+            "what is the current time right now in hollywood", 
+            "time"
+        ], 
+        [
+            "what time is it now in michigan", 
+            "time"
+        ], 
+        [
+            "what's the clock say", 
+            "time"
+        ],
+        [
+            "what time is it in punta gorda, florida", 
+            "time"
+        ], 
+        [
+            "what time is it in glenwood springs, co", 
+            "time"
+        ], 
+        [
+            "what time is it in fredericksburg, tx", 
+            "time"
+        ], 
+        [
+            "what time is it in las vegas, nv", 
+            "time"
+        ], 
+        [
+            "what time is it in houston, tx", 
+            "time"
+        ], 
+        [
+            "i need to know the current time in the central timezone", 
+            "time"
+        ], 
+        [
+            "would you tell me the current time in the eastern timezone", 
+            "time"
+        ], 
+        [
+            "let me know the current time in the central timezone", 
+            "time"
+        ], 
+        [
+            "tell me what time it is in the central timezone", 
+            "time"
+        ], 
+        [
+            "i am needing to know the current time in the eastern timezone", 
+            "time"
+        ], 
+        [
+            "what is the time right now in the hst timezone", 
+            "time"
+        ], 
+        [
+            "can you tell me the current time", 
+            "time"
+        ], 
+        [
+            "what is the current time in cst", 
+            "time"
+        ], 
+        [
+            "i need to know what time it is in florida", 
+            "time"
+        ], 
+        [
+            "what is the time right now", 
+            "time"
+        ], 
+        [
+            "in the mst time zone, what time is it right now", 
+            "time"
+        ], 
+        [
+            "tell me what time it is right now", 
+            "time"
+        ], 
+        [
+            "can you tell me the current time in the pacific timezone", 
+            "time"
+        ], 
+        [
+            "look up the time in california", 
+            "time"
+        ], 
+        [
+            "what is the current est time", 
+            "time"
+        ], 
+        [
+            "can you tell me what time it is please", 
+            "time"
+        ], 
+        [
+            "what time is it getting to be", 
+            "time"
+        ], 
+        [
+            "what time do you have on your watch", 
+            "time"
+        ], 
+        [
+            "what time would it be in rome right now", 
+            "time"
+        ], 
+        [
+            "what's the time in london", 
+            "time"
+        ], 
+        [
+            "what's the time set to in florida right now", 
+            "time"
+        ], 
+        [
+            "what time is it currently in istanbul", 
+            "time"
+        ], 
+        [
+            "what time is it right now in paris", 
+            "time"
+        ], 
+        [
+            "what's the time right now", 
+            "time"
+        ], 
+        [
+            "current time, please", 
+            "time"
+        ], 
+        [
+            "would you mind telling me the time", 
+            "time"
+        ], 
+        [
+            "can you give me the time", 
+            "time"
+        ], 
+        [
+            "please let me know what time it is", 
+            "time"
+        ], 
+        [
+            "what is the exact time right now in the hawaii time zone", 
+            "time"
+        ], 
+        [
+            "what is the time", 
+            "time"
+        ], 
+        [
+            "what is the time right now in the peruvian time zone", 
+            "time"
+        ], 
+        [
+            "what is the exact time", 
+            "time"
+        ], 
+        [
+            "what time is it exactly in the new zealand time zone", 
+            "time"
+        ], 
+        [
+            "what is the exact time in the ist time zone", 
+            "time"
+        ], 
+        [
+            "what is the time in the utc timezone", 
+            "time"
+        ], 
+        [
+            "what time is it exactly", 
+            "time"
+        ], 
+        [
+            "what is the time now", 
+            "time"
+        ], 
+        [
+            "what time is it in russia", 
+            "time"
+        ], 
+        [
+            "what time is it", 
+            "time"
+        ], 
+        [
+            "what is the time in sydney, australia", 
+            "time"
+        ], 
+        [
+            "what time is it in honolulu", 
+            "time"
+        ], 
+        [
+            "what's the current time in greenwhich", 
+            "time"
+        ], 
+        [
+            "what's the current time in est", 
+            "time"
+        ], 
+        [
+            "what time is it on the pacific coast right now", 
+            "time"
+        ], 
+        [
+            "given my time, what time is it in mst", 
+            "time"
+        ], 
+        [
+            "have you the time", 
+            "time"
+        ], 
+        [
+            "when is it right now", 
+            "time"
+        ], 
+        [
+            "what hour and minute is it", 
+            "time"
+        ], 
+        [
+            "what time is it right now in cst", 
+            "time"
+        ], 
+        [
+            "what time is it in the eastern standard timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in the pacific standard timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in the alaska standard timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in the central standard timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in the mountain standard timezone", 
+            "time"
+        ], 
+        [
+            "now what is the time", 
+            "time"
+        ], 
+        [
+            "at the moment what is the time", 
+            "time"
+        ], 
+        [
+            "i want to know the time", 
+            "time"
+        ], 
+        [
+            "what time is it now", 
+            "time"
+        ], 
+        [
+            "do you know the current time in southern california", 
+            "time"
+        ], 
+        [
+            "what is the current time in china", 
+            "time"
+        ], 
+        [
+            "what is the current time in mexico city", 
+            "time"
+        ], 
+        [
+            "what is the current time in new york", 
+            "time"
+        ], 
+        [
+            "what is the current time in istanbul", 
+            "time"
+        ], 
+        [
+            "what time is it in buenos aires", 
+            "time"
+        ], 
+        [
+            "what time is it in north korea", 
+            "time"
+        ], 
+        [
+            "what does it say on the clock", 
+            "time"
+        ], 
+        [
+            "in tokyo, what's the time", 
+            "time"
+        ], 
+        [
+            "in tokyo, what time is it", 
+            "time"
+        ], 
+        [
+            "what's the time in tokyo", 
+            "time"
+        ], 
+        [
+            "time in tokyo", 
+            "time"
+        ], 
+        [
+            "what time is it in tokyo", 
+            "time"
+        ], 
+        [
+            "the time please", 
+            "time"
+        ], 
+        [
+            "i want to know what time it is", 
+            "time"
+        ], 
+        [
+            "can you tell me the time", 
+            "time"
+        ], 
+        [
+            "i would like to know the time", 
+            "time"
+        ], 
+        [
+            "i need to know the time", 
+            "time"
+        ], 
+        [
+            "the current time", 
+            "time"
+        ], 
+        [
+            "in the eastern timezone, what time is it now", 
+            "time"
+        ], 
+        [
+            "in the central timezone, what time is it", 
+            "time"
+        ], 
+        [
+            "what's the current time now cst", 
+            "time"
+        ], 
+        [
+            "in pacific time, what's the current time", 
+            "time"
+        ], 
+        [
+            "what time is it now pacific time", 
+            "time"
+        ], 
+        [
+            "what is the current time, please", 
+            "time"
+        ], 
+        [
+            "what's the current time, please", 
+            "time"
+        ], 
+        [
+            "what is the time, please", 
+            "time"
+        ], 
+        [
+            "how is the time", 
+            "time"
+        ], 
+        [
+            "please tell me the time", 
+            "time"
+        ], 
+        [
+            "what time is it in london", 
+            "time"
+        ], 
+        [
+            "what time is it in new york", 
+            "time"
+        ], 
+        [
+            "what time is it in paris", 
+            "time"
+        ], 
+        [
+            "what time is it in daniel boone national forest timezone", 
+            "time"
+        ], 
+        [
+            "what is the time in atlantic timezone", 
+            "time"
+        ], 
+        [
+            "what's the time in anchorage timezone", 
+            "time"
+        ], 
+        [
+            "in bst timezone, what time is it", 
+            "time"
+        ], 
+        [
+            "do you have the time", 
+            "time"
+        ],
+        [
+            "i need you to tell me what time it is in new york now", 
+            "time"
+        ], 
+        [
+            "what time is it in adelaide, australia right now", 
+            "time"
+        ], 
+        [
+            "is it after noon", 
+            "time"
+        ], 
+        [
+            "is it six o clock yet", 
+            "time"
+        ], 
+        [
+            "please give me the time in tanzania at this moment", 
+            "time"
+        ], 
+        [
+            "can you tell me the current time in jamaica", 
+            "time"
+        ], 
+        [
+            "tell me the time in san francisco, please", 
+            "time"
+        ], 
+        [
+            "what time is it right now in adelaide, australia", 
+            "time"
+        ], 
+        [
+            "what time is it in the eastern timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in the mountain timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in the greenwich timezone", 
+            "time"
+        ], 
+        [
+            "what time is it in the central timezone", 
+            "time"
+        ], 
+        [
+            "tell me what the time is in dallas", 
+            "time"
+        ], 
+        [
+            "what is the current time in dallas", 
+            "time"
+        ], 
+        [
+            "can you tell me what time it is in dallas", 
+            "time"
+        ], 
+        [
+            "what time is it in dallas", 
+            "time"
+        ], 
+        [
+            "tell time for another city: dallas", 
+            "time"
+        ], 
+        [
+            "what time is it right now at home", 
+            "time"
+        ], 
+        [
+            "what\u2019s the time in new york", 
+            "time"
+        ], 
+        [
+            "tell me the time in california", 
+            "time"
+        ], 
+        [
+            "tell me the time in las vegas", 
+            "time"
+        ], 
+        [
+            "what is the time is central time zone", 
+            "time"
+        ], 
+        [
+            "what is the time in the usa", 
+            "time"
+        ], 
+        [
+            "what is the time in est", 
+            "time"
+        ], 
+        [
+            "whats the exact time", 
+            "time"
+        ], 
+        [
+            "what is the current time", 
+            "time"
+        ], 
+        [
+            "what's the current time", 
+            "time"
+        ], 
+        [
+            "what time is it in california", 
+            "time"
+        ], 
+        [
+            "please give me the time", 
+            "time"
+        ], 
+        [
+            "the time is what", 
+            "time"
+        ]
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "data": [
+        [
+            "call alex", 
+            "make_call"
+        ], 
+        [
+            "please call mark", 
+            "make_call"
+        ], 
+        [
+            "i want to call mark", 
+            "make_call"
+        ], 
+        [
+            "let me call mark", 
+            "make_call"
+        ], 
+        [
+            "can we call mark", 
+            "make_call"
+        ], 
+        [
+            "call back my mom please", 
+            "make_call"
+        ], 
+        [
+            "start a call to cynthia", 
+            "make_call"
+        ], 
+        [
+            "i want to call up jan", 
+            "make_call"
+        ], 
+        [
+            "can you get a call started to martha", 
+            "make_call"
+        ], 
+        [
+            "please call felicity", 
+            "make_call"
+        ], 
+        [
+            "please initiate a phone call to my boss", 
+            "make_call"
+        ], 
+        [
+            "initiate a call to robert", 
+            "make_call"
+        ], 
+        [
+            "dial the last number that called me", 
+            "make_call"
+        ], 
+        [
+            "call contact aj", 
+            "make_call"
+        ], 
+        [
+            "call aj now", 
+            "make_call"
+        ], 
+        [
+            "call aj", 
+            "make_call"
+        ], 
+        [
+            "call aj please", 
+            "make_call"
+        ], 
+        [
+            "call my friend aj", 
+            "make_call"
+        ], 
+        [
+            "can you call michelle on the home phone", 
+            "make_call"
+        ], 
+        [
+            "siri, call jacob", 
+            "make_call"
+        ],
+        [
+            "place a phone call to yiming", 
+            "make_call"
+        ], 
+        [
+            "phone lobby", 
+            "make_call"
+        ], 
+        [
+            "can you call dominos pizza", 
+            "make_call"
+        ], 
+        [
+            "can you redial the last number dialed", 
+            "make_call"
+        ], 
+        [
+            "call 911", 
+            "make_call"
+        ], 
+        [
+            "can you call a taxi", 
+            "make_call"
+        ], 
+        [
+            "can you call mom", 
+            "make_call"
+        ], 
+        [
+            "call work", 
+            "make_call"
+        ], 
+        [
+            "call justin", 
+            "make_call"
+        ], 
+        [
+            "call home", 
+            "make_call"
+        ], 
+        [
+            "call erryn", 
+            "make_call"
+        ], 
+        [
+            "i have to call the commander", 
+            "make_call"
+        ], 
+        [
+            "i will be calling hr", 
+            "make_call"
+        ], 
+        [
+            "it is important that i call katie", 
+            "make_call"
+        ], 
+        [
+            "x is who i need to call", 
+            "make_call"
+        ], 
+        [
+            "i am going to call the landlord", 
+            "make_call"
+        ], 
+        [
+            "call macy", 
+            "make_call"
+        ], 
+        [
+            "dial lisa's cell phone number", 
+            "make_call"
+        ], 
+        [
+            "please dial david now", 
+            "make_call"
+        ], 
+        [
+            "i need you to call michael at home", 
+            "make_call"
+        ], 
+        [
+            "can you call mary", 
+            "make_call"
+        ], 
+        [
+            "please phone lizzy", 
+            "make_call"
+        ], 
+        [
+            "please dial x's phone number", 
+            "make_call"
+        ], 
+        [
+            "dial x's phone please", 
+            "make_call"
+        ], 
+        [
+            "please call toby", 
+            "make_call"
+        ], 
+        [
+            "call dave", 
+            "make_call"
+        ], 
+        [
+            "call my best friend", 
+            "make_call"
+        ], 
+        [
+            "can you make a phone call to mark", 
+            "make_call"
+        ], 
+        [
+            "can you call my mom", 
+            "make_call"
+        ], 
+        [
+            "call mark", 
+            "make_call"
+        ], 
+        [
+            "call friend", 
+            "make_call"
+        ], 
+        [
+            "can i call a restaurant", 
+            "make_call"
+        ], 
+        [
+            "can you make a phone call to kevin", 
+            "make_call"
+        ], 
+        [
+            "call bob for me", 
+            "make_call"
+        ], 
+        [
+            "call my mother", 
+            "make_call"
+        ], 
+        [
+            "call jim", 
+            "make_call"
+        ], 
+        [
+            "can you make a phone call to roger", 
+            "make_call"
+        ], 
+        [
+            "can you make a phone call to dave", 
+            "make_call"
+        ], 
+        [
+            "call mymother", 
+            "make_call"
+        ], 
+        [
+            "can you make a phone call to randy", 
+            "make_call"
+        ], 
+        [
+            "bella needs to be called", 
+            "make_call"
+        ], 
+        [
+            "give liz a call", 
+            "make_call"
+        ], 
+        [
+            "would you give jenny a call", 
+            "make_call"
+        ], 
+        [
+            "i want you to call bella", 
+            "make_call"
+        ], 
+        [
+            "phone call secretary", 
+            "make_call"
+        ], 
+        [
+            "get a hold of sue", 
+            "make_call"
+        ], 
+        [
+            "i'm looking to call a group", 
+            "make_call"
+        ], 
+        [
+            "call tom", 
+            "make_call"
+        ], 
+        [
+            "dial x's number", 
+            "make_call"
+        ], 
+        [
+            "dial christie's cell", 
+            "make_call"
+        ], 
+        [
+            "call christie's work number", 
+            "make_call"
+        ], 
+        [
+            "phone christie", 
+            "make_call"
+        ], 
+        [
+            "call christie", 
+            "make_call"
+        ], 
+        [
+            "please dial christie's number", 
+            "make_call"
+        ], 
+        [
+            "can you call someone", 
+            "make_call"
+        ], 
+        [
+            "call someone for me", 
+            "make_call"
+        ], 
+        [
+            "dial someone's phone number", 
+            "make_call"
+        ], 
+        [
+            "i need to talk to someone on the phone", 
+            "make_call"
+        ], 
+        [
+            "call someone", 
+            "make_call"
+        ], 
+        [
+            "it's time for me to call drew", 
+            "make_call"
+        ], 
+        [
+            "it's necessary to call michael", 
+            "make_call"
+        ], 
+        [
+            "i must call jordan", 
+            "make_call"
+        ], 
+        [
+            "x is waiting for me to call", 
+            "make_call"
+        ], 
+        [
+            "put me on a call to sally", 
+            "make_call"
+        ], 
+        [
+            "place a call to bill now", 
+            "make_call"
+        ], 
+        [
+            "i want to place a call to mike", 
+            "make_call"
+        ], 
+        [
+            "i have to call jane", 
+            "make_call"
+        ], 
+        [
+            "can you call russell", 
+            "make_call"
+        ], 
+        [
+            "place call to robby", 
+            "make_call"
+        ], 
+        [
+            "dial sarah", 
+            "make_call"
+        ], 
+        [
+            "call robby", 
+            "make_call"
+        ], 
+        [
+            "phone sarah", 
+            "make_call"
+        ], 
+        [
+            "call sarah", 
+            "make_call"
+        ], 
+        [
+            "call robby for me", 
+            "make_call"
+        ], 
+        [
+            "i want to call robby", 
+            "make_call"
+        ], 
+        [
+            "can you call robby", 
+            "make_call"
+        ], 
+        [
+            "phonecall sarah", 
+            "make_call"
+        ], 
+        [
+            "i want to talk to sarah", 
+            "make_call"
+        ], 
+        [
+            "dial steven", 
+            "make_call"
+        ], 
+        [
+            "phone steven", 
+            "make_call"
+        ], 
+        [
+            "ring steven", 
+            "make_call"
+        ], 
+        [
+            "call steven", 
+            "make_call"
+        ], 
+        [
+            "i want to make a call to uncle", 
+            "make_call"
+        ], 
+        [
+            "use my phone to dial work", 
+            "make_call"
+        ], 
+        [
+            "start a phone call with kathy", 
+            "make_call"
+        ], 
+        [
+            "initiate a phone call with receptionist", 
+            "make_call"
+        ], 
+        [
+            "can a phone call be made to maria", 
+            "make_call"
+        ], 
+        [
+            "i need you to call the broker", 
+            "make_call"
+        ], 
+        [
+            "please do me a favor and call brother mario", 
+            "make_call"
+        ], 
+        [
+            "can you please call nata", 
+            "make_call"
+        ], 
+        [
+            "call sandra right now", 
+            "make_call"
+        ], 
+        [
+            "immediately call tom", 
+            "make_call"
+        ], 
+        [
+            "i must call dr smith", 
+            "make_call"
+        ], 
+        [
+            "connect me to bob", 
+            "make_call"
+        ], 
+        [
+            "place a call to father callahan", 
+            "make_call"
+        ], 
+        [
+            "i should call ruthie", 
+            "make_call"
+        ], 
+        [
+            "please call christy", 
+            "make_call"
+        ], 
+        [
+            "i must call roderick", 
+            "make_call"
+        ], 
+        [
+            "please make a phone call to christopher", 
+            "make_call"
+        ], 
+        [
+            "i need to call mark", 
+            "make_call"
+        ], 
+        [
+            "i need to call my dad", 
+            "make_call"
+        ], 
+        [
+            "i need to call my friend", 
+            "make_call"
+        ], 
+        [
+            "i need to call my coworker", 
+            "make_call"
+        ], 
+        [
+            "i need to call my mom", 
+            "make_call"
+        ], 
+        [
+            "i need to call my boss", 
+            "make_call"
+        ], 
+        [
+            "i need you to call the phone company for me", 
+            "make_call"
+        ], 
+        [
+            "make a call for me to the vet", 
+            "make_call"
+        ], 
+        [
+            "dial up dominos pizza", 
+            "make_call"
+        ], 
+        [
+            "call my doctor", 
+            "make_call"
+        ], 
+        [
+            "get mom on the phone", 
+            "make_call"
+        ], 
+        [
+            "please make a call to stefan larson", 
+            "make_call"
+        ], 
+        [
+            "use phone to call alexa", 
+            "make_call"
+        ], 
+        [
+            "computer, call alexa", 
+            "make_call"
+        ], 
+        [
+            "computer, place a call to alexa", 
+            "make_call"
+        ], 
+        [
+            "can you call alexa", 
+            "make_call"
+        ], 
+        [
+            "call alexa at home", 
+            "make_call"
+        ], 
+        [
+            "i would like to make a call to sal", 
+            "make_call"
+        ], 
+        [
+            "i would like to make a phone call", 
+            "make_call"
+        ], 
+        [
+            "can i make a phone call", 
+            "make_call"
+        ], 
+        [
+            "i need to make a call", 
+            "make_call"
+        ], 
+        [
+            "i need you to phone sal", 
+            "make_call"
+        ], 
+        [
+            "i need to call sal", 
+            "make_call"
+        ], 
+        [
+            "i have to make a phone call", 
+            "make_call"
+        ], 
+        [
+            "i have to use the phone to make a call", 
+            "make_call"
+        ], 
+        [
+            "could you call sal", 
+            "make_call"
+        ], 
+        [
+            "call sal", 
+            "make_call"
+        ], 
+        [
+            "x needs to be called by me", 
+            "make_call"
+        ], 
+        [
+            "call to mom", 
+            "make_call"
+        ], 
+        [
+            "call mom", 
+            "make_call"
+        ], 
+        [
+            "dial her up", 
+            "make_call"
+        ]
+    ]
+}
