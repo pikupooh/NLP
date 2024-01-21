@@ -1,0 +1,54 @@
+.app_navbar{
+  height: 50px;
+  background-color: #dc3545;
+}
+
+.navbar_brand{
+  font-size: xx-large;
+  font-weight: bold;
+  color: white;
+  padding-left: 10px;
+}
+
+.navbar_product_brand{
+  color: white;
+  margin: 10px;
+  font-size: x-large;
+  font-weight: 500;
+}
+
+.navbar_link{
+  color: white;
+  margin: 5px;
+}
+
+.app_body{
+  background-color: rgb(233, 227, 227);
+}
+
+.dataset_container{
+  background-color: rgb(243, 243, 243);
+  margin-top: 10px;
+  padding: 10px;
+  text-align: left;
+}
+
+.dataset_container:hover{
+  background-color: rgb(233, 233, 233);
+}
+
+.dataset_buttons_panel{
+  text-align: right;
+}
+
+.dataset_button{
+  margin: 10px;
+}
+
+.intent_select_option{
+  margin-left: 5px;
+}
+
+.entity_select_option{
+  margin-left: 5px;
+}
